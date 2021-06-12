@@ -1,71 +1,94 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" content="assignment 1A" />
+    <meta name="keywords" content="project,sustainability" />
+    <meta name="author" content="Sam,Yovinma" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link href="style.css" rel="stylesheet" />
+    <link href="styleplots.css" rel="stylesheet" />
 
-<head>
-  <meta charset="utf-8" />
-  <meta name="description" content="assignment 1A" />
-  <meta name="keywords" content="project,sustainability" />
-  <meta name="author" content="Sam,Yovinma"  />
-  <meta name="viewport" content="width=device-width,initial-scale=1"/>
- <link href="style.css" rel="stylesheet"/>
- <link href="styleplots.css" rel="stylesheet"/>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <script src="https://d3js.org/d3-ease.v2.min.js"></script>
 
- <script src ="https://d3js.org/d3.v6.min.js"></script>
- <script src = "https://d3js.org/d3-ease.v2.min.js"></script>
+    <script src="graph1js.js"></script>
+    <script src="graph2js.js"></script>
+    <script src="graph3js.js"></script>
 
- <script src="graph1js.js"></script>
- <script src="graph2js.js"></script>
- <script src="graph3js.js"></script>
+    <title>Size and impact of waste on the environment</title>
+  </head>
+  <body id="indexbody">
+    <div id="navi">
+      <nav class="navigation" id="navbar">
+        <ul>
+          <li><a href="index.html">GRAPHS</a></li>
+          <li><a href="references.html">REFERENCES</a></li>
+        </ul>
+      </nav>
+      <div id="banner2">
+        <header id="header2" class="headers">References</header>
+      </div>
+    </div>
+    <div id="refpara1" class="refparas">
+      <h2 class="refheadings">Reference List</h2>
+      <p>
+        Plaine Products 2021, PLAINE PRODUCTS BLOG, Plain Products, viewed 8
+        June 2021,<
+        https://www.plaineproducts.com/why-we-need-to-understand-the-history-of-plastic-before-we-can-tackle-the-problem/>.
+      </p>
+      <p>
+        Biemiller,A 2013, Can we safely burn used plastic objects in a domestic
+        fireplace?, MIT school of engineering, viewed 8 June 2021,<
+        https://bit.ly/3wfgrfD >.
+      </p>
+      <p>
+        Australian Bureau of Statistics 2020, Waste Account, Australia,
+        Experimental Estimates, Australian Bureau of Statistics, viewed 8 June
+        2021,<
+        https://www.abs.gov.au/statistics/environment/environmental-management/waste-account-australia-experimental-estimates/latest-release
+        >.
+      </p>
+      <p>
+        Moran, P 2020, AUSTRALIA TO STOP EXPORTING WASTE, Australia Indonesia
+        Youth Association, viewed 8 June 2021, <
+        https://www.aiya.org.au/2020/10/australia-to-stop-exporting-waste/ >.
+      </p>
+    </div>
 
+    <div id="refpara2" class="refparas">
+      <h2 class="refheadings">Links to Data Sets</h2>
 
-  <title>Size and impact of waste on the environment</title>
+      <div>
+        <p>
+          Graph 1
+          -https://www.environment.gov.au/protection/waste/publications/waste-exports
+        </p>
+      </div>
+      <div>
+        <p>
+          Graph 2
+          -https://www.kaggle.com/theweed/global-personal-waste-produce-annually
+        </p>
+      </div>
+      <div>
+        <p>
+          Graph 3
+          -https://ourworldindata.org/plastic-pollution?fbclid=IwAR0qG-1HghmKVNU9OeU8jVTjYm5oEeLW1NJkNIypPFFJoIf1NXDi5A6sjaw
+        </p>
+      </div>
+    </div>
 
-</head>
-<body id="indexbody">
-<div id="navi">
-<nav class="navigation" id="navbar">
-<ul>
-<li><a href="website.html">GRAPHS</a></li>
-<li> <a href="references.html">REFERENCES</a></li>
+    <footer>
+      <div class="navigation" id="footnavi">
+        <ul id="footernavi">
+          <li><a href="website.html">GRAPHS</a></li>
+          <li><a href="references.html">REFERENCES</a></li>
+        </ul>
 
-</ul>
-</nav>
-<div id="banner2">
-<header id="header2" class="headers">References</header>
-</div>
-</div>
-<div id="refpara1" class="refparas">
-<h2 class="refheadings">Reference List</h2>
-<p>Plaine Products 2021, PLAINE PRODUCTS BLOG, Plain Products, viewed 8 June 2021,< https://www.plaineproducts.com/why-we-need-to-understand-the-history-of-plastic-before-we-can-tackle-the-problem/>.</p>
-<p>Biemiller,A 2013, Can we safely burn used plastic objects in a domestic fireplace?, MIT school of engineering, viewed 8 June 2021,< https://bit.ly/3wfgrfD >.</p>
-<p>Australian Bureau of Statistics 2020, Waste Account, Australia, Experimental Estimates, Australian Bureau of Statistics, viewed 8 June 2021,< https://www.abs.gov.au/statistics/environment/environmental-management/waste-account-australia-experimental-estimates/latest-release >.</p>
-<p>Moran, P 2020, AUSTRALIA TO STOP EXPORTING WASTE, Australia Indonesia Youth Association, viewed 8 June 2021, < https://www.aiya.org.au/2020/10/australia-to-stop-exporting-waste/ >.</p>
-
-</div>
-
-<div id="refpara2" class="refparas">
-<h2 class="refheadings">Links to Data Sets</h2>
-
-<div><p>Graph 1 -https://www.environment.gov.au/protection/waste/publications/waste-exports</p></div>
-<div><p>Graph 2 -https://www.kaggle.com/theweed/global-personal-waste-produce-annually</p></div>
-<div><p>Graph 3 -https://ourworldindata.org/plastic-pollution?fbclid=IwAR0qG-1HghmKVNU9OeU8jVTjYm5oEeLW1NJkNIypPFFJoIf1NXDi5A6sjaw</p></div>
-
-</div>
-
-<footer>
-<div class="navigation" id= "footnavi">
-
-<ul id="footernavi" >
-<li><a href="website.html">GRAPHS</a></li>
-<li><a href="references.html">REFERENCES</a></li>
-</ul>
-
-<p>&#169;2021 sustainability project for data visualization</p>
-<p id="markup"> Mark up by: Yovinma Konara (102426323) and Viet Bui()</p>
-
-</div>
-</footer>
-
-
-</body>
+        <p>&#169;2021 sustainability project for data visualization</p>
+        <p id="markup">Mark up by: Yovinma Konara (102426323) and Viet Bui()</p>
+      </div>
+    </footer>
+  </body>
 </html>
