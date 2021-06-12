@@ -1,0 +1,815 @@
+/*
+filename:Yovinma Konara
+Author:Yovinma Konara
+created: 16/11/19
+Last modified:22/11/19
+description:index.html, jobs.html, enhancements.html, apply.html, about.html 
+
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Kulim+Park|Monda|Odibee+Sans&display=swap');
+
+/*css styling for index.html*/
+
+
+
+.navigation ul{ 
+ list-style-type: none;
+  overflow: hidden;
+
+}	
+
+	
+.navigation a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding:1em;
+  text-decoration: none;
+  
+
+
+  
+}
+
+.navigation ul{
+	margin-top:-0.5em;
+	  background-color: #333;
+	 
+}
+
+#footernavi li{
+	float:left;
+	padding-left:2.3em;
+	padding-right:2.3em;
+	text-align:center;
+	text-decoration:underline;
+	font-size:1em;
+
+}
+
+footer{
+	margin-left:-0.5em;
+	margin-right:-0.5em;
+}
+
+footer p{
+	color:white;
+	font-size:0.7em;
+	text-align:center;
+	
+	
+}
+
+footer{
+	  background-color: #333;
+}
+
+#navi{
+	background-image:url(images/header2.jpg);
+	background-size:cover;
+	background-position:center;
+	position:relative;
+	height:39em;
+	margin-left:-0.5em;
+	margin-right:-0.5em;
+
+	
+	
+}
+
+
+.navigation li{
+	float: right;	
+	font-family: 'Kulim Park', sans-serif;
+	font-size:1.3em;
+}
+ 
+.navigation li:hover{
+	  background-color: #7FE3D6;
+	
+}
+
+.navigation a:hover{
+	  color:#000000;
+}
+
+.headers{
+	color:white;
+	font-family: 'Odibee Sans', cursive;
+	font-size:6em;
+	text-align:left;
+	position:relative;
+
+	
+}
+
+.catchphrase{
+	color:white;
+	font-size:3em;
+	position:relative;
+	top:5em;
+	font-family: 'Dancing Script', cursive;
+	text-align:center;
+}
+
+p{
+	font-size:1.2em;
+	font-family: 'Monda', sans-serif;
+
+	
+}
+#clinicdesc{
+
+padding:1em;
+position:relative;
+
+margin:1em;
+}
+
+#para01pic{
+	height:20em;
+	width:30em;
+	position:relative;
+	top:5em;
+	float:right;
+	
+
+}
+
+#para01{
+	border:1px inset black;
+	border-radius:1em;
+	width:40%;
+	text-align:justify;
+}
+
+#para01,#indpara02{
+	text-align:center;
+	margin:3em;
+	padding:2em;
+	
+}
+
+
+
+#indpara02{
+	color:white;
+	position:relative;
+	top:4em;
+}
+
+
+#sec02ind{
+	background-image:url(images/cat.jpg);
+	background-size:cover;
+	background-attachment: fixed;
+	height:28em;
+	position:relative;
+	bottom: 3.5em;
+	margin-left:-0.5em;
+	margin-right:-0.5em;
+	
+	
+}
+body{
+	background-color:#E8E8E8;
+}
+
+#contact{
+
+	background-image:url(images/background.png);
+	background-size:cover;
+	background-position:center ;
+	padding:4em;
+	position:relative;
+	bottom:1.5em;
+	height:20em;
+	margin-left:-0.5em;
+	margin-right:-0.5em;
+	
+}
+
+#slidepic{
+	height:400px;
+	width:550px;
+	
+}
+
+#slideshowdiv{
+	position:relative;
+	bottom:1em;
+	left:25em;
+	
+}
+
+#contact p{
+	color:white;
+}
+
+#emailclinic{
+	color:white;
+	
+}
+
+#emailclinic:hover{
+	color:black;
+	background-color:white;
+}
+
+/*index page css is over*/
+/*css styling for jobs.html*/
+
+aside {
+	background-color:#BBECEC;
+	font:0.6em 'Monda', sans-serif;
+	position:fixed;
+	float:right;
+	width: 25%;
+	bottom:10em;
+	padding:0.5em;
+	border: 1px solid blue;
+	border-radius:1em;
+	z-index:1; /*this is done so that aside will be the topmost layer in the webpage*/
+	text-align:center;
+}
+
+aside a{
+		text-decoration:none;
+		color:black;
+		
+}
+
+#jobheader{
+	font-family: 'Alatsi', sans-serif;
+	font-size:2em;
+	text-align:center;
+}
+
+h2,h3,h4{
+	font-family: 'Monda', sans-serif;
+}
+
+h2{
+	font-size:1.8em;
+}
+
+h3{
+	font-size:1.3em;
+}
+
+section li,ul{
+	font-size:1em;
+	font-family: 'Monda', sans-serif;
+}
+
+
+#navi2{
+	background-image:url(images/headerpic.jpg);
+	background-size:cover;
+	position:relative;
+	height:39em;
+	margin-left:-0.5em;
+	margin-right:-0.5em;
+}
+
+
+
+#job02{
+	position:relative;
+	clear:both;
+	padding-bottom:2em;
+}
+
+#job01{
+	padding-bottom:2em;
+}
+
+#job01pic{
+	position:relative;
+	float :right;
+	width:34%;
+	top:24em;
+	left:43em;
+
+	
+}
+
+.job{
+	border:1px solid black;
+	
+}
+
+.jobhead{
+		border:1px solid black;
+		background-image:url(images/backpic.jpg);
+		background-size:cover;
+		background-position:10px 510px;
+		height:25em;
+		margin-bottom: 1em;
+		margin-left:-0.5em;
+		margin-right:-0.5em;
+}
+
+.jobhead li{
+	position:relative;
+	
+}
+
+.lists{ 
+	position:relative;
+	float:right;
+	width:50%;
+}
+
+.jobtitle{
+		position:relative;
+	float:right;
+	width:50%;
+
+}
+#body02{
+	background-image:url(images/backgroundpic.jpg);
+	background-size:cover;
+	margin-left:-0.5em;
+	margin-right:-0.5em;
+	
+}
+.applylink{
+	font-size:1.7em;
+	color:white;
+	position: relative;
+	text-decoration:none;
+	font-family: 'Monda', sans-serif;
+	background-color:#7FE3D6;
+	padding:0.5em;
+	margin-left:1.5em;
+}
+
+/*css styling for jobs.html is over*/
+/*css styling for apply.html*/
+
+
+#navi4{
+	background-image:url(images/aboutme.jpg);
+	background-size:cover;
+	position:relative;
+	height:39em;
+	margin-left:-0.5em;
+	margin-right:-0.5em;
+}
+
+
+
+#catchphrase4{
+	color:black;
+	background-color:white;
+}
+
+form{
+	position:relative;
+	top:2em;
+}
+
+#applybody{
+	background-image: url(images/backpicture.jpg);
+	background-size:cover;
+	background-position:0 500px;
+	margin-left:-0.5em;
+	margin-right:-0.5em;
+	padding-bottom:4em;
+}
+
+#navi3{
+	background-image:url(images/applyhead.jpg);
+	background-size:cover;
+	position:relative;
+	height:39em;
+	margin-left:-0.5em;
+	margin-right:-0.5em;
+}
+
+
+
+#applybody li,p,label,legend{
+	font-size:1.2em;
+	font-family: 'Monda', sans-serif;
+}
+
+#header3{
+	color:black;
+}
+
+#catchphrase3{
+	color:black;	
+
+}
+
+.buttons{
+	background-color:#7FE3D6;
+	padding: 1em;
+	border-radius: 2em;
+	border-style:none;
+	box-shadow: 7px 3px 0 black;
+	margin-right:1em;
+	position:relative;
+	left: 2em;
+	top:1.2em;
+}
+
+
+.phead{
+	color:black;
+	font-size:1em;
+	text-align:center;
+	
+}
+
+
+
+
+
+.close{
+	font-size:1em;
+	background-color:#7FE3E6;
+	padding:1em;
+	padding-left:1em;
+	padding-right:1em;
+	position:relative;
+	left:30%;
+	display:block;
+	cursor:pointer;
+	
+}
+
+.pcontent{
+ position:relative;
+ top:40%;
+ background-color: #fefefe;
+ margin-left: 30em;
+ margin-right:30em;
+ padding:2em;
+}
+
+
+.popupboxes{
+	display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 9999; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+	
+}
+
+.errors{
+	font-size: 1em;
+	color: red;
+	font-family: 'Monda', sans-serif;
+	
+}
+
+input:invalid {
+  background-color: pink;
+}
+/*apply.html css styling is over*/
+/*about.html css styling begins*/
+
+#header4{
+	color:black;
+}
+
+#mydetails dd{
+	font-size:1.6em;
+	font-family:'Dancing Script', cursive;
+	float:left;
+	position:relative;
+	right:13em;
+	
+}
+
+#mydetails dt{
+	font-size:1.3em;
+	font-family: 'Monda', sans-serif;
+	float:left;
+	color:#023547;
+	width:50%;
+}
+
+#mydetails dd,dt{
+	
+padding:0.5em;
+	
+}
+#mydetails{
+	margin:2em;
+	float:left;
+	position:relative;
+	top:1em;
+	
+
+}
+
+
+#imgofme{
+	position:relative;
+	float:right;
+	border-radius:10em;
+	height:35em;
+	width:45em;
+}
+
+
+#aboutme{
+	clear:both;
+	color:#397373;
+	position:relative;
+	bottom: 28em;
+	margin:2em;
+	float:left;
+	width:40%;
+}
+
+#timetable{
+	float:none;
+	position:relative;
+	left:6em;
+	
+}
+
+#stumail{
+	text-decoration:none;
+	color:black;
+	
+}
+
+#stumail:hover{
+	background-color:white;
+}
+
+
+#timetable tr,th,td{
+	border:2px solid #397373;
+	padding:1.5em;
+}
+
+#timetable{
+	margin:2em;
+	position:relative;
+	bottom:10em;
+	
+}
+
+#timetable th{
+	background-color:white;
+}
+
+
+#timetable th{
+	font:1.2em 'Odibee Sans', cursive;
+
+}
+
+#timetable td{
+	font:1.6em 'Dancing Script', cursive;
+}
+
+
+/*css styling for about.html is over*/
+/*enhancements page css styling*/
+#navi5{
+	background-image:url(images/enhancements.jpg);
+	background-size:cover;
+	position:relative;
+	height:39em;
+	margin-left:-0.5em;
+	margin-right:-0.5em;
+}
+
+#header5{
+	color:black;
+}
+
+#catchphrase5{
+	color:black;
+}
+
+
+.enhhdetails{
+	background-image:url(images/enhback.jpg);
+	height:27em;
+	margin-left:-0.5em;
+	margin-right:-0.5em;
+	
+}
+
+
+
+.enhhdetails p{
+	margin-left:2em;
+	position:relative;
+	top:2em;
+}
+
+.enhhdetails h1{
+	font:2em 'Dancing Script', cursive;  /*short hand font property used*/
+	margin-left:2em;
+	position:relative;
+	top:2em;
+	
+}
+
+/*css styling for enhancements.html is over*/
+
+/*css styling for enhancements2*/
+#enhsec2{
+	height:40em;
+}
+
+#header6{
+	color:black;
+}
+
+#catchphrase6{
+	color:black;
+}
+
+/*css styling for when window screen is re sized(this is also the full screen size for tablets)*/
+@media only screen and (max-width: 768px){
+	.headers{
+			font-size:4em;
+	}
+	
+	.catchphrases{ /*basic styling is resized so that it remains 		contstant on each page*/
+		
+		font-size:2em;
+	}
+	.navigation{
+		width:100%;
+	}
+	.navigation a{
+		font-size:0.8em;
+	}
+	
+	
+	#footernavi li{
+		padding-left:1em;
+		padding-right:1em;
+		
+	}
+	
+	#clinicdesc{
+		font-size:0.8em;
+		bottom:2em;
+		right:3em;
+	}
+	#para01pic{
+		width:25em;
+		position:relative;
+		bottom:19em;
+		left:5em;
+		
+	}
+	p{
+		font-size:0.9em
+	}
+	#sec02ind p{
+		top:5em;
+	}
+	
+	#contact p{
+		color:black;
+		font-size:0.9em;
+	}
+	
+	#slidepic{
+		height:400px;
+		width:600px;
+		position:relative;
+		right:57%;
+	}
+	
+	#slideshowdiv{
+
+
+	}
+	
+	.jobhead{
+		background-position:5px 800px;
+	}
+	
+	#job01pic{
+		top:19.2em;
+		left:22.7em;
+		
+	}
+
+	#mydetails dt{
+	float:right;
+	font-size:1em;
+	padding:1em;
+	width:150%;
+	}
+	
+	#mydetails dd{
+		float:left;
+		margin-left:5em;
+	
+	}
+	
+	#mydetails{
+		
+		left:19em;
+	}
+	#aboutme{
+			bottom:12em;
+			text-align:justify;
+	}
+	
+	#imgofme{
+		left:5em;
+		height:15em;
+		width:20em;
+		position:relative;
+		float:none;
+		left: 17em;
+		border-radius:1em;
+		top:7em;
+		
+	}
+	#timetable th,td{
+		padding:0.3em;
+		
+		
+	}
+	#timetable{
+		left:1em;
+	}
+	
+	#enhhdetails h1{
+		padding-bottom:0.2em;
+	}
+	
+}
+
+/*for mobile phones*/
+
+	@media only screen and (max-width:480px){
+		
+	.navigation a{
+		font-size:0.5em;
+		padding:0.5em;
+		padding-top:1em;
+	}
+	
+	
+	
+	.catchphrases{
+		font-size:1em;
+	}
+	
+	#navi{
+		height:45em;
+	}
+	
+	
+	
+	#para01{
+		border-style:none;
+		width:100%;
+		
+	}
+	#clinicdesc{
+			bottom:18em;
+			height:20em;
+	}
+	
+	#para01pic{
+		visibility:hidden;
+	}
+	
+	#indpara02{
+		top:40em;
+		padding:0.5em;
+	}
+	#contact{
+		height:20em;
+	}
+	
+	#footernavi li{
+		padding:0.2em;
+	}
+	
+	footer p{
+		font-size:0.2em;
+	}
+	
+
+	
+	}
+
+

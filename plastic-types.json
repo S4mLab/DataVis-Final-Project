@@ -1,0 +1,2922 @@
+[
+  {
+    "bags_sacks_wraps": 56.69,
+    "bottles_jars": 56.69,
+    "packaging": 37.43,
+    "durable_plastics": 264.3,
+    "plates_cups": 7.23,
+    "trash_bags": 7.23
+  },
+  {
+    "bags_sacks_wraps": 56.92,
+    "bottles_jars": 56.92,
+    "packaging": 43.68,
+    "durable_plastics": 255.1,
+    "plates_cups": 9.17,
+    "trash_bags": 9.17
+  },
+  {
+    "bags_sacks_wraps": 60.22,
+    "bottles_jars": 60.22,
+    "packaging": 53.76,
+    "durable_plastics": 258.6,
+    "plates_cups": 8.25,
+    "trash_bags": 8.25
+  },
+  {
+    "bags_sacks_wraps": 59.52,
+    "bottles_jars": 59.52,
+    "packaging": 46.48,
+    "durable_plastics": 254.7,
+    "plates_cups": 6.48,
+    "trash_bags": 6.48
+  },
+  {
+    "bags_sacks_wraps": 59.97,
+    "bottles_jars": 59.97,
+    "packaging": 55.33,
+    "durable_plastics": 257.5,
+    "plates_cups": 4.62,
+    "trash_bags": 4.62
+  },
+  {
+    "bags_sacks_wraps": 57.27,
+    "bottles_jars": 57.27,
+    "packaging": 53.16,
+    "durable_plastics": 246.2,
+    "plates_cups": 5.21,
+    "trash_bags": 5.21
+  },
+  {
+    "bags_sacks_wraps": 59.8,
+    "bottles_jars": 60.01,
+    "packaging": 58.75,
+    "durable_plastics": 242.6,
+    "plates_cups": 4.66,
+    "trash_bags": 4.66
+  },
+  {
+    "bags_sacks_wraps": 61.71,
+    "bottles_jars": 62.16,
+    "packaging": 60.98,
+    "durable_plastics": 244.5,
+    "plates_cups": 3.68,
+    "trash_bags": 3.68
+  },
+  {
+    "bags_sacks_wraps": 69.95,
+    "bottles_jars": 70.56,
+    "packaging": 64.66,
+    "durable_plastics": 261,
+    "plates_cups": 15.06,
+    "trash_bags": 24.43
+  },
+  {
+    "bags_sacks_wraps": 46.53,
+    "bottles_jars": 43.33,
+    "packaging": 29.39,
+    "durable_plastics": 290.8,
+    "plates_cups": 6.37,
+    "trash_bags": 12.76
+  },
+  {
+    "bags_sacks_wraps": 50.45,
+    "bottles_jars": 50.38,
+    "packaging": 36.7,
+    "durable_plastics": 325.9,
+    "plates_cups": 7.62,
+    "trash_bags": 7.62
+  },
+  {
+    "bags_sacks_wraps": 46.93,
+    "bottles_jars": 46.92,
+    "packaging": 30.53,
+    "durable_plastics": 326.1,
+    "plates_cups": 0.98,
+    "trash_bags": 1.73
+  },
+  {
+    "bags_sacks_wraps": 54.54,
+    "bottles_jars": 54.54,
+    "packaging": 43.4,
+    "durable_plastics": 314.5,
+    "plates_cups": 7.14,
+    "trash_bags": 7.14
+  },
+  {
+    "bags_sacks_wraps": 54.47,
+    "bottles_jars": 54.47,
+    "packaging": 38.88,
+    "durable_plastics": 336.4,
+    "plates_cups": 7.36,
+    "trash_bags": 7.36
+  },
+  {
+    "bags_sacks_wraps": 49.51,
+    "bottles_jars": 48.83,
+    "packaging": 28.75,
+    "durable_plastics": 322.5,
+    "plates_cups": 3.29,
+    "trash_bags": 3.29
+  },
+  {
+    "bags_sacks_wraps": 42.92,
+    "bottles_jars": 36.5,
+    "packaging": 38.4,
+    "durable_plastics": 312.7,
+    "plates_cups": 12.1,
+    "trash_bags": 18.33
+  },
+  {
+    "bags_sacks_wraps": 31.69,
+    "bottles_jars": 25.55,
+    "packaging": 18.15,
+    "durable_plastics": 351.3,
+    "plates_cups": 6.42,
+    "trash_bags": 6.42
+  },
+  {
+    "bags_sacks_wraps": 39.77,
+    "bottles_jars": 33.5,
+    "packaging": 21.65,
+    "durable_plastics": 338.8,
+    "plates_cups": 9.69,
+    "trash_bags": 9.69
+  },
+  {
+    "bags_sacks_wraps": 49.41,
+    "bottles_jars": 48.28,
+    "packaging": 36.69,
+    "durable_plastics": 320.3,
+    "plates_cups": 3.87,
+    "trash_bags": 3.87
+  },
+  {
+    "bags_sacks_wraps": 54.45,
+    "bottles_jars": 54.45,
+    "packaging": 51.09,
+    "durable_plastics": 320.2,
+    "plates_cups": 3.2,
+    "trash_bags": 3.2
+  },
+  {
+    "bags_sacks_wraps": 26.95,
+    "bottles_jars": 19.19,
+    "packaging": 10.46,
+    "durable_plastics": 370.1,
+    "plates_cups": 7.3,
+    "trash_bags": 7.3
+  },
+  {
+    "bags_sacks_wraps": 30.09,
+    "bottles_jars": 24.25,
+    "packaging": 12.35,
+    "durable_plastics": 347,
+    "plates_cups": 5.72,
+    "trash_bags": 5.72
+  },
+  {
+    "bags_sacks_wraps": 41.86,
+    "bottles_jars": 36.64,
+    "packaging": 27.3,
+    "durable_plastics": 345.1,
+    "plates_cups": 8.42,
+    "trash_bags": 8.42
+  },
+  {
+    "bags_sacks_wraps": 43.3,
+    "bottles_jars": 40,
+    "packaging": 30.86,
+    "durable_plastics": 317,
+    "plates_cups": 5.55,
+    "trash_bags": 5.55
+  },
+  {
+    "bags_sacks_wraps": 34.1,
+    "bottles_jars": 24.63,
+    "packaging": 10.61,
+    "durable_plastics": 308.2,
+    "plates_cups": 14.01,
+    "trash_bags": 14.01
+  },
+  {
+    "bags_sacks_wraps": 40.27,
+    "bottles_jars": 32.29,
+    "packaging": 30.01,
+    "durable_plastics": 304.7,
+    "plates_cups": 14.66,
+    "trash_bags": 14.66
+  },
+  {
+    "bags_sacks_wraps": 41.63,
+    "bottles_jars": 41.64,
+    "packaging": 41.63,
+    "durable_plastics": 333,
+    "plates_cups": 0.92,
+    "trash_bags": 1.37
+  },
+  {
+    "bags_sacks_wraps": 43.39,
+    "bottles_jars": 41.18,
+    "packaging": 32.15,
+    "durable_plastics": 331,
+    "plates_cups": 4.06,
+    "trash_bags": 4.06
+  },
+  {
+    "bags_sacks_wraps": 42.74,
+    "bottles_jars": 37.12,
+    "packaging": 29.98,
+    "durable_plastics": 330.7,
+    "plates_cups": 9.8,
+    "trash_bags": 19.65
+  },
+  {
+    "bags_sacks_wraps": 48.25,
+    "bottles_jars": 45.08,
+    "packaging": 35.23,
+    "durable_plastics": 292.6,
+    "plates_cups": 7.01,
+    "trash_bags": 7.01
+  },
+  {
+    "bags_sacks_wraps": 39.88,
+    "bottles_jars": 32.88,
+    "packaging": 22.35,
+    "durable_plastics": 305.1,
+    "plates_cups": 11.54,
+    "trash_bags": 21.92
+  },
+  {
+    "bags_sacks_wraps": 41.98,
+    "bottles_jars": 38.89,
+    "packaging": 34.43,
+    "durable_plastics": 296,
+    "plates_cups": 4.88,
+    "trash_bags": 4.88
+  },
+  {
+    "bags_sacks_wraps": 41.97,
+    "bottles_jars": 35.82,
+    "packaging": 34.66,
+    "durable_plastics": 302,
+    "plates_cups": 10.64,
+    "trash_bags": 10.64
+  },
+  {
+    "bags_sacks_wraps": 45.88,
+    "bottles_jars": 42.96,
+    "packaging": 37.29,
+    "durable_plastics": 281,
+    "plates_cups": 5.67,
+    "trash_bags": 5.67
+  },
+  {
+    "bags_sacks_wraps": 52.77,
+    "bottles_jars": 52.77,
+    "packaging": 39.41,
+    "durable_plastics": 258.3,
+    "plates_cups": 3.16,
+    "trash_bags": 3.16
+  },
+  {
+    "bags_sacks_wraps": 54.08,
+    "bottles_jars": 54.08,
+    "packaging": 45.15,
+    "durable_plastics": 315.7,
+    "plates_cups": 10.92,
+    "trash_bags": 19.37
+  },
+  {
+    "bags_sacks_wraps": 38.4,
+    "bottles_jars": 33.52,
+    "packaging": 27.77,
+    "durable_plastics": 328.4,
+    "plates_cups": 6.49,
+    "trash_bags": 6.49
+  },
+  {
+    "bags_sacks_wraps": 36.15,
+    "bottles_jars": 30.7,
+    "packaging": 23.84,
+    "durable_plastics": 329.1,
+    "plates_cups": 6.69,
+    "trash_bags": 6.69
+  },
+  {
+    "bags_sacks_wraps": 35.43,
+    "bottles_jars": 30.92,
+    "packaging": 20.7,
+    "durable_plastics": 344.1,
+    "plates_cups": 5.22,
+    "trash_bags": 9.82
+  },
+  {
+    "bags_sacks_wraps": 37.34,
+    "bottles_jars": 29.69,
+    "packaging": 35.36,
+    "durable_plastics": 388.2,
+    "plates_cups": 11.51,
+    "trash_bags": 19.66
+  },
+  {
+    "bags_sacks_wraps": 32.63,
+    "bottles_jars": 25.77,
+    "packaging": 31.42,
+    "durable_plastics": 398.7,
+    "plates_cups": 7.74,
+    "trash_bags": 7.74
+  },
+  {
+    "bags_sacks_wraps": 33.02,
+    "bottles_jars": 25.85,
+    "packaging": 25.94,
+    "durable_plastics": 351.7,
+    "plates_cups": 8.4,
+    "trash_bags": 8.4
+  },
+  {
+    "bags_sacks_wraps": 38.31,
+    "bottles_jars": 31.53,
+    "packaging": 33.71,
+    "durable_plastics": 355.3,
+    "plates_cups": 10.03,
+    "trash_bags": 10.03
+  },
+  {
+    "bags_sacks_wraps": 37.87,
+    "bottles_jars": 32.7,
+    "packaging": 22.26,
+    "durable_plastics": 335.6,
+    "plates_cups": 6.77,
+    "trash_bags": 6.77
+  },
+  {
+    "bags_sacks_wraps": 39.96,
+    "bottles_jars": 35.75,
+    "packaging": 24.41,
+    "durable_plastics": 345.2,
+    "plates_cups": 5.93,
+    "trash_bags": 5.93
+  },
+  {
+    "bags_sacks_wraps": 32.02,
+    "bottles_jars": 26.61,
+    "packaging": 17.88,
+    "durable_plastics": 370.3,
+    "plates_cups": 5.55,
+    "trash_bags": 5.55
+  },
+  {
+    "bags_sacks_wraps": 42.59,
+    "bottles_jars": 40.27,
+    "packaging": 35.05,
+    "durable_plastics": 330.3,
+    "plates_cups": 4.05,
+    "trash_bags": 4.05
+  },
+  {
+    "bags_sacks_wraps": 53.57,
+    "bottles_jars": 53.57,
+    "packaging": 52.09,
+    "durable_plastics": 316.6,
+    "plates_cups": 15.53,
+    "trash_bags": 15.53
+  },
+  {
+    "bags_sacks_wraps": 42.98,
+    "bottles_jars": 39.35,
+    "packaging": 35.24,
+    "durable_plastics": 297.5,
+    "plates_cups": 5.92,
+    "trash_bags": 5.92
+  },
+  {
+    "bags_sacks_wraps": 32.92,
+    "bottles_jars": 23.55,
+    "packaging": 16.74,
+    "durable_plastics": 320.3,
+    "plates_cups": 12.92,
+    "trash_bags": 23.44
+  },
+  {
+    "bags_sacks_wraps": 35.02,
+    "bottles_jars": 35.02,
+    "packaging": 24.5,
+    "durable_plastics": 307.7,
+    "plates_cups": 1.01,
+    "trash_bags": 1.01
+  },
+  {
+    "bags_sacks_wraps": 49.1,
+    "bottles_jars": 44,
+    "packaging": 48.06,
+    "durable_plastics": 298.6,
+    "plates_cups": 13.34,
+    "trash_bags": 13.34
+  },
+  {
+    "bags_sacks_wraps": 45.7,
+    "bottles_jars": 38.68,
+    "packaging": 36.67,
+    "durable_plastics": 353.2,
+    "plates_cups": 16.8,
+    "trash_bags": 16.8
+  },
+  {
+    "bags_sacks_wraps": 38.18,
+    "bottles_jars": 34.22,
+    "packaging": 20.64,
+    "durable_plastics": 310,
+    "plates_cups": 5.13,
+    "trash_bags": 5.13
+  },
+  {
+    "bags_sacks_wraps": 34.56,
+    "bottles_jars": 29.16,
+    "packaging": 31.47,
+    "durable_plastics": 292.1,
+    "plates_cups": 6.17,
+    "trash_bags": 6.17
+  },
+  {
+    "bags_sacks_wraps": 35.05,
+    "bottles_jars": 35.05,
+    "packaging": 31.68,
+    "durable_plastics": 308.4,
+    "plates_cups": 2.11,
+    "trash_bags": 3.57
+  },
+  {
+    "bags_sacks_wraps": 24.29,
+    "bottles_jars": 16.38,
+    "packaging": 14.19,
+    "durable_plastics": 354.8,
+    "plates_cups": 6.8,
+    "trash_bags": 6.8
+  },
+  {
+    "bags_sacks_wraps": 24.2,
+    "bottles_jars": 14.09,
+    "packaging": 14.07,
+    "durable_plastics": 345.9,
+    "plates_cups": 9.93,
+    "trash_bags": 9.93
+  },
+  {
+    "bags_sacks_wraps": 27.72,
+    "bottles_jars": 22.09,
+    "packaging": 16.63,
+    "durable_plastics": 303.9,
+    "plates_cups": 4.95,
+    "trash_bags": 4.95
+  },
+  {
+    "bags_sacks_wraps": 32.61,
+    "bottles_jars": 28.19,
+    "packaging": 25.14,
+    "durable_plastics": 306.9,
+    "plates_cups": 4.58,
+    "trash_bags": 4.58
+  },
+  {
+    "bags_sacks_wraps": 40.84,
+    "bottles_jars": 35.82,
+    "packaging": 28.13,
+    "durable_plastics": 315.8,
+    "plates_cups": 7.58,
+    "trash_bags": 7.58
+  },
+  {
+    "bags_sacks_wraps": 43.63,
+    "bottles_jars": 39.59,
+    "packaging": 29.21,
+    "durable_plastics": 297.3,
+    "plates_cups": 6.85,
+    "trash_bags": 6.85
+  },
+  {
+    "bags_sacks_wraps": 37.93,
+    "bottles_jars": 33.18,
+    "packaging": 22.56,
+    "durable_plastics": 285.8,
+    "plates_cups": 6.17,
+    "trash_bags": 6.17
+  },
+  {
+    "bags_sacks_wraps": 39.75,
+    "bottles_jars": 39.71,
+    "packaging": 35.4,
+    "durable_plastics": 285.2,
+    "plates_cups": 0.69,
+    "trash_bags": 0.69
+  },
+  {
+    "bags_sacks_wraps": 45.99,
+    "bottles_jars": 42.2,
+    "packaging": 40.71,
+    "durable_plastics": 269.3,
+    "plates_cups": 7.33,
+    "trash_bags": 7.33
+  },
+  {
+    "bags_sacks_wraps": 47.27,
+    "bottles_jars": 44.54,
+    "packaging": 42.24,
+    "durable_plastics": 298.6,
+    "plates_cups": 5.79,
+    "trash_bags": 5.79
+  },
+  {
+    "bags_sacks_wraps": 43.96,
+    "bottles_jars": 42.8,
+    "packaging": 29.78,
+    "durable_plastics": 322.9,
+    "plates_cups": 3.05,
+    "trash_bags": 3.05
+  },
+  {
+    "bags_sacks_wraps": 41.97,
+    "bottles_jars": 36.02,
+    "packaging": 39.43,
+    "durable_plastics": 305.9,
+    "plates_cups": 10.17,
+    "trash_bags": 10.17
+  },
+  {
+    "bags_sacks_wraps": 38.9,
+    "bottles_jars": 30.68,
+    "packaging": 35.76,
+    "durable_plastics": 327.7,
+    "plates_cups": 14.21,
+    "trash_bags": 14.21
+  },
+  {
+    "bags_sacks_wraps": 42.22,
+    "bottles_jars": 38.02,
+    "packaging": 32.85,
+    "durable_plastics": 346.8,
+    "plates_cups": 6.66,
+    "trash_bags": 6.66
+  },
+  {
+    "bags_sacks_wraps": 34.14,
+    "bottles_jars": 27.82,
+    "packaging": 20.74,
+    "durable_plastics": 336.9,
+    "plates_cups": 7.41,
+    "trash_bags": 7.41
+  },
+  {
+    "bags_sacks_wraps": 44.47,
+    "bottles_jars": 40.84,
+    "packaging": 34.11,
+    "durable_plastics": 308.1,
+    "plates_cups": 6.42,
+    "trash_bags": 6.42
+  },
+  {
+    "bags_sacks_wraps": 45.22,
+    "bottles_jars": 45.25,
+    "packaging": 43.63,
+    "durable_plastics": 288.3,
+    "plates_cups": 0.15,
+    "trash_bags": 1
+  },
+  {
+    "bags_sacks_wraps": 42.88,
+    "bottles_jars": 39.08,
+    "packaging": 37.03,
+    "durable_plastics": 338.3,
+    "plates_cups": 6.18,
+    "trash_bags": 6.18
+  },
+  {
+    "bags_sacks_wraps": 36.36,
+    "bottles_jars": 31.65,
+    "packaging": 20.78,
+    "durable_plastics": 356.3,
+    "plates_cups": 5.74,
+    "trash_bags": 5.74
+  },
+  {
+    "bags_sacks_wraps": 40.48,
+    "bottles_jars": 35.44,
+    "packaging": 20.82,
+    "durable_plastics": 321,
+    "plates_cups": 7.5,
+    "trash_bags": 7.5
+  },
+  {
+    "bags_sacks_wraps": 38.24,
+    "bottles_jars": 33.25,
+    "packaging": 30,
+    "durable_plastics": 387.5,
+    "plates_cups": 6.6,
+    "trash_bags": 6.6
+  },
+  {
+    "bags_sacks_wraps": 29.9,
+    "bottles_jars": 23.45,
+    "packaging": 11.18,
+    "durable_plastics": 355.9,
+    "plates_cups": 6.37,
+    "trash_bags": 6.37
+  },
+  {
+    "bags_sacks_wraps": 33.4,
+    "bottles_jars": 26.47,
+    "packaging": 20.3,
+    "durable_plastics": 294,
+    "plates_cups": 8.13,
+    "trash_bags": 8.13
+  },
+  {
+    "bags_sacks_wraps": 50.74,
+    "bottles_jars": 50.74,
+    "packaging": 43.16,
+    "durable_plastics": 302.8,
+    "plates_cups": 5.5,
+    "trash_bags": 5.5
+  },
+  {
+    "bags_sacks_wraps": 61.34,
+    "bottles_jars": 61.34,
+    "packaging": 55.19,
+    "durable_plastics": 282.1,
+    "plates_cups": 6.55,
+    "trash_bags": 6.55
+  },
+  {
+    "bags_sacks_wraps": 48.39,
+    "bottles_jars": 45.51,
+    "packaging": 33.14,
+    "durable_plastics": 292.9,
+    "plates_cups": 6.39,
+    "trash_bags": 6.39
+  },
+  {
+    "bags_sacks_wraps": 41.97,
+    "bottles_jars": 41.97,
+    "packaging": 37.77,
+    "durable_plastics": 302.7,
+    "plates_cups": 0.41,
+    "trash_bags": 0.62
+  },
+  {
+    "bags_sacks_wraps": 42.91,
+    "bottles_jars": 42.87,
+    "packaging": 42.08,
+    "durable_plastics": 327.1,
+    "plates_cups": 0.32,
+    "trash_bags": 0.4
+  },
+  {
+    "bags_sacks_wraps": 45.3,
+    "bottles_jars": 45.23,
+    "packaging": 40.66,
+    "durable_plastics": 330.2,
+    "plates_cups": 1.8,
+    "trash_bags": 1.88
+  },
+  {
+    "bags_sacks_wraps": 35.15,
+    "bottles_jars": 28.8,
+    "packaging": 18.51,
+    "durable_plastics": 369.9,
+    "plates_cups": 7.8,
+    "trash_bags": 7.8
+  },
+  {
+    "bags_sacks_wraps": 22.88,
+    "bottles_jars": 14.88,
+    "packaging": 4.36,
+    "durable_plastics": 314.5,
+    "plates_cups": 6.55,
+    "trash_bags": 6.55
+  },
+  {
+    "bags_sacks_wraps": 37.17,
+    "bottles_jars": 28.79,
+    "packaging": 35.25,
+    "durable_plastics": 303.7,
+    "plates_cups": 13.32,
+    "trash_bags": 13.32
+  },
+  {
+    "bags_sacks_wraps": 31.85,
+    "bottles_jars": 26.07,
+    "packaging": 17.1,
+    "durable_plastics": 347,
+    "plates_cups": 5.97,
+    "trash_bags": 5.97
+  },
+  {
+    "bags_sacks_wraps": 24.71,
+    "bottles_jars": 18,
+    "packaging": 5.29,
+    "durable_plastics": 379.7,
+    "plates_cups": 5.52,
+    "trash_bags": 5.52
+  },
+  {
+    "bags_sacks_wraps": 28.55,
+    "bottles_jars": 23.03,
+    "packaging": 13.97,
+    "durable_plastics": 350.6,
+    "plates_cups": 5.03,
+    "trash_bags": 5.03
+  },
+  {
+    "bags_sacks_wraps": 35.2,
+    "bottles_jars": 32.72,
+    "packaging": 24.96,
+    "durable_plastics": 327.5,
+    "plates_cups": 3.18,
+    "trash_bags": 3.18
+  },
+  {
+    "bags_sacks_wraps": 38.93,
+    "bottles_jars": 38.93,
+    "packaging": 30.34,
+    "durable_plastics": 319.5,
+    "plates_cups": 2.78,
+    "trash_bags": 2.78
+  },
+  {
+    "bags_sacks_wraps": 41.65,
+    "bottles_jars": 35.26,
+    "packaging": 30.08,
+    "durable_plastics": 331.8,
+    "plates_cups": 11.08,
+    "trash_bags": 11.08
+  },
+  {
+    "bags_sacks_wraps": 42.42,
+    "bottles_jars": 38.38,
+    "packaging": 38.84,
+    "durable_plastics": 391.8,
+    "plates_cups": 6.43,
+    "trash_bags": 6.43
+  },
+  {
+    "bags_sacks_wraps": 38.41,
+    "bottles_jars": 32.79,
+    "packaging": 28.11,
+    "durable_plastics": 378.2,
+    "plates_cups": 7.75,
+    "trash_bags": 7.75
+  },
+  {
+    "bags_sacks_wraps": 40.39,
+    "bottles_jars": 36.82,
+    "packaging": 28.56,
+    "durable_plastics": 378.9,
+    "plates_cups": 5.14,
+    "trash_bags": 5.14
+  },
+  {
+    "bags_sacks_wraps": 38.24,
+    "bottles_jars": 33.81,
+    "packaging": 24.17,
+    "durable_plastics": 353.7,
+    "plates_cups": 5.8,
+    "trash_bags": 5.8
+  },
+  {
+    "bags_sacks_wraps": 33.25,
+    "bottles_jars": 25.46,
+    "packaging": 18.65,
+    "durable_plastics": 361.2,
+    "plates_cups": 9.65,
+    "trash_bags": 9.65
+  },
+  {
+    "bags_sacks_wraps": 35.73,
+    "bottles_jars": 31.44,
+    "packaging": 25.55,
+    "durable_plastics": 364.1,
+    "plates_cups": 5.01,
+    "trash_bags": 5.01
+  },
+  {
+    "bags_sacks_wraps": 40.35,
+    "bottles_jars": 36.91,
+    "packaging": 37.15,
+    "durable_plastics": 354,
+    "plates_cups": 4.91,
+    "trash_bags": 5.23
+  },
+  {
+    "bags_sacks_wraps": 40.14,
+    "bottles_jars": 36.75,
+    "packaging": 33.93,
+    "durable_plastics": 384.5,
+    "plates_cups": 4.85,
+    "trash_bags": 6.29
+  },
+  {
+    "bags_sacks_wraps": 36.6,
+    "bottles_jars": 32.32,
+    "packaging": 34.13,
+    "durable_plastics": 380.6,
+    "plates_cups": 5.2,
+    "trash_bags": 10.16
+  },
+  {
+    "bags_sacks_wraps": 49.54,
+    "bottles_jars": 49.5,
+    "packaging": 36.66,
+    "durable_plastics": 321.6,
+    "plates_cups": 0.9,
+    "trash_bags": 4.55
+  },
+  {
+    "bags_sacks_wraps": 52.55,
+    "bottles_jars": 52.55,
+    "packaging": 49.97,
+    "durable_plastics": 297.3,
+    "plates_cups": 0.37,
+    "trash_bags": 9.33
+  },
+  {
+    "bags_sacks_wraps": 39.59,
+    "bottles_jars": 33.81,
+    "packaging": 23.9,
+    "durable_plastics": 342.7,
+    "plates_cups": 8.52,
+    "trash_bags": 12.37
+  },
+  {
+    "bags_sacks_wraps": 40.22,
+    "bottles_jars": 36.03,
+    "packaging": 38.94,
+    "durable_plastics": 305,
+    "plates_cups": 5.98,
+    "trash_bags": 11.61
+  },
+  {
+    "bags_sacks_wraps": 34.35,
+    "bottles_jars": 28.66,
+    "packaging": 17.49,
+    "durable_plastics": 361.7,
+    "plates_cups": 6.5,
+    "trash_bags": 28.07
+  },
+  {
+    "bags_sacks_wraps": 35.62,
+    "bottles_jars": 31.65,
+    "packaging": 21.77,
+    "durable_plastics": 369.4,
+    "plates_cups": 4.65,
+    "trash_bags": 5.8
+  },
+  {
+    "bags_sacks_wraps": 41.58,
+    "bottles_jars": 36.89,
+    "packaging": 28.48,
+    "durable_plastics": 333.9,
+    "plates_cups": 7.28,
+    "trash_bags": 16.35
+  },
+  {
+    "bags_sacks_wraps": 43.78,
+    "bottles_jars": 43.81,
+    "packaging": 42.74,
+    "durable_plastics": 323.6,
+    "plates_cups": 2.92,
+    "trash_bags": 5.68
+  },
+  {
+    "bags_sacks_wraps": 44.64,
+    "bottles_jars": 41.46,
+    "packaging": 35.48,
+    "durable_plastics": 302.9,
+    "plates_cups": 5.66,
+    "trash_bags": 22.09
+  },
+  {
+    "bags_sacks_wraps": 38.82,
+    "bottles_jars": 31.37,
+    "packaging": 33.45,
+    "durable_plastics": 286.6,
+    "plates_cups": 12.11,
+    "trash_bags": 18.84
+  },
+  {
+    "bags_sacks_wraps": 40.67,
+    "bottles_jars": 36.3,
+    "packaging": 29.69,
+    "durable_plastics": 309.4,
+    "plates_cups": 6.4,
+    "trash_bags": 23.89
+  },
+  {
+    "bags_sacks_wraps": 19.76,
+    "bottles_jars": 10.75,
+    "packaging": 1.43,
+    "durable_plastics": 403.5,
+    "plates_cups": 7,
+    "trash_bags": 15.5
+  },
+  {
+    "bags_sacks_wraps": 28.38,
+    "bottles_jars": 19.35,
+    "packaging": 19.05,
+    "durable_plastics": 310.8,
+    "plates_cups": 9.8,
+    "trash_bags": 22.51
+  },
+  {
+    "bags_sacks_wraps": 39.72,
+    "bottles_jars": 39.76,
+    "packaging": 30.04,
+    "durable_plastics": 341.2,
+    "plates_cups": 0.51,
+    "trash_bags": 3.75
+  },
+  {
+    "bags_sacks_wraps": 40.52,
+    "bottles_jars": 33.36,
+    "packaging": 26.21,
+    "durable_plastics": 338.1,
+    "plates_cups": 12.37,
+    "trash_bags": 19.47
+  },
+  {
+    "bags_sacks_wraps": 43.59,
+    "bottles_jars": 41.66,
+    "packaging": 42.16,
+    "durable_plastics": 325.9,
+    "plates_cups": 3.77,
+    "trash_bags": 6.21
+  },
+  {
+    "bags_sacks_wraps": 34.31,
+    "bottles_jars": 28.56,
+    "packaging": 18.29,
+    "durable_plastics": 341.5,
+    "plates_cups": 6.58,
+    "trash_bags": 14.74
+  },
+  {
+    "bags_sacks_wraps": 28.44,
+    "bottles_jars": 19.24,
+    "packaging": 10.64,
+    "durable_plastics": 414.7,
+    "plates_cups": 10.14,
+    "trash_bags": 20.48
+  },
+  {
+    "bags_sacks_wraps": 32.63,
+    "bottles_jars": 25.17,
+    "packaging": 10.3,
+    "durable_plastics": 383.8,
+    "plates_cups": 8.75,
+    "trash_bags": 16.1
+  },
+  {
+    "bags_sacks_wraps": 40.35,
+    "bottles_jars": 38.11,
+    "packaging": 14.21,
+    "durable_plastics": 349.2,
+    "plates_cups": 3.59,
+    "trash_bags": 9.05
+  },
+  {
+    "bags_sacks_wraps": 43.99,
+    "bottles_jars": 41.14,
+    "packaging": 20.74,
+    "durable_plastics": 355.5,
+    "plates_cups": 5.03,
+    "trash_bags": 12.87
+  },
+  {
+    "bags_sacks_wraps": 48.05,
+    "bottles_jars": 47.43,
+    "packaging": 35.79,
+    "durable_plastics": 317.7,
+    "plates_cups": 3.08,
+    "trash_bags": 7.92
+  },
+  {
+    "bags_sacks_wraps": 46.37,
+    "bottles_jars": 43.15,
+    "packaging": 44.89,
+    "durable_plastics": 295.9,
+    "plates_cups": 6.35,
+    "trash_bags": 8.82
+  },
+  {
+    "bags_sacks_wraps": 44.8,
+    "bottles_jars": 38.58,
+    "packaging": 43.02,
+    "durable_plastics": 306.7,
+    "plates_cups": 12.95,
+    "trash_bags": 23.09
+  },
+  {
+    "bags_sacks_wraps": 32.54,
+    "bottles_jars": 21.46,
+    "packaging": 15.75,
+    "durable_plastics": 380.2,
+    "plates_cups": 17.43,
+    "trash_bags": 25.99
+  },
+  {
+    "bags_sacks_wraps": 36.31,
+    "bottles_jars": 27.58,
+    "packaging": 13.8,
+    "durable_plastics": 426.1,
+    "plates_cups": 13.4,
+    "trash_bags": 18.9
+  },
+  {
+    "bags_sacks_wraps": 27.36,
+    "bottles_jars": 20.96,
+    "packaging": 10.34,
+    "durable_plastics": 408.7,
+    "plates_cups": 5.69,
+    "trash_bags": 26.24
+  },
+  {
+    "bags_sacks_wraps": 38.3,
+    "bottles_jars": 38.36,
+    "packaging": 22.81,
+    "durable_plastics": 338.1,
+    "plates_cups": 0.88,
+    "trash_bags": 6.17
+  },
+  {
+    "bags_sacks_wraps": 52.77,
+    "bottles_jars": 52.77,
+    "packaging": 37.38,
+    "durable_plastics": 396.4,
+    "plates_cups": 9.09,
+    "trash_bags": 19.95
+  },
+  {
+    "bags_sacks_wraps": 50.7,
+    "bottles_jars": 50.59,
+    "packaging": 45.96,
+    "durable_plastics": 381.6,
+    "plates_cups": 5.85,
+    "trash_bags": 24.39
+  },
+  {
+    "bags_sacks_wraps": 48.71,
+    "bottles_jars": 45.82,
+    "packaging": 36.24,
+    "durable_plastics": 352.2,
+    "plates_cups": 6.66,
+    "trash_bags": 14.67
+  },
+  {
+    "bags_sacks_wraps": 42.01,
+    "bottles_jars": 38.75,
+    "packaging": 35.44,
+    "durable_plastics": 347.9,
+    "plates_cups": 5.11,
+    "trash_bags": 10.85
+  },
+  {
+    "bags_sacks_wraps": 38.44,
+    "bottles_jars": 30.06,
+    "packaging": 34.93,
+    "durable_plastics": 401.7,
+    "plates_cups": 14.38,
+    "trash_bags": 17.57
+  },
+  {
+    "bags_sacks_wraps": 38.12,
+    "bottles_jars": 38.1,
+    "packaging": 16.71,
+    "durable_plastics": 379.6,
+    "plates_cups": 2.42,
+    "trash_bags": 18.37
+  },
+  {
+    "bags_sacks_wraps": 51.26,
+    "bottles_jars": 51.16,
+    "packaging": 22.79,
+    "durable_plastics": 339.9,
+    "plates_cups": 10.9,
+    "trash_bags": 20.43
+  },
+  {
+    "bags_sacks_wraps": 59.11,
+    "bottles_jars": 59.11,
+    "packaging": 30.41,
+    "durable_plastics": 337.6,
+    "plates_cups": 7.25,
+    "trash_bags": 16.28
+  },
+  {
+    "bags_sacks_wraps": 58.48,
+    "bottles_jars": 58.48,
+    "packaging": 51.83,
+    "durable_plastics": 357.1,
+    "plates_cups": 9.47,
+    "trash_bags": 19.32
+  },
+  {
+    "bags_sacks_wraps": 47.99,
+    "bottles_jars": 47.99,
+    "packaging": 27,
+    "durable_plastics": 397.1,
+    "plates_cups": 0.6,
+    "trash_bags": 4.24
+  },
+  {
+    "bags_sacks_wraps": 47.17,
+    "bottles_jars": 42.15,
+    "packaging": 44.18,
+    "durable_plastics": 343.9,
+    "plates_cups": 11.09,
+    "trash_bags": 25.72
+  },
+  {
+    "bags_sacks_wraps": 55.37,
+    "bottles_jars": 55.38,
+    "packaging": 20.31,
+    "durable_plastics": 326.9,
+    "plates_cups": 3.83,
+    "trash_bags": 25.32
+  },
+  {
+    "bags_sacks_wraps": 47.92,
+    "bottles_jars": 45.5,
+    "packaging": 23.94,
+    "durable_plastics": 303.2,
+    "plates_cups": 5.45,
+    "trash_bags": 17.95
+  },
+  {
+    "bags_sacks_wraps": 45.32,
+    "bottles_jars": 40.13,
+    "packaging": 13.81,
+    "durable_plastics": 337.4,
+    "plates_cups": 10.28,
+    "trash_bags": 17.23
+  },
+  {
+    "bags_sacks_wraps": 41.53,
+    "bottles_jars": 36.34,
+    "packaging": 33.3,
+    "durable_plastics": 354.7,
+    "plates_cups": 8.21,
+    "trash_bags": 16.3
+  },
+  {
+    "bags_sacks_wraps": 48.63,
+    "bottles_jars": 45.91,
+    "packaging": 40.42,
+    "durable_plastics": 368.7,
+    "plates_cups": 6.28,
+    "trash_bags": 13.11
+  },
+  {
+    "bags_sacks_wraps": 45.7,
+    "bottles_jars": 41.94,
+    "packaging": 31.96,
+    "durable_plastics": 310.3,
+    "plates_cups": 7.13,
+    "trash_bags": 17.55
+  },
+  {
+    "bags_sacks_wraps": 48.25,
+    "bottles_jars": 46.51,
+    "packaging": 44.56,
+    "durable_plastics": 303.9,
+    "plates_cups": 4.51,
+    "trash_bags": 7.32
+  },
+  {
+    "bags_sacks_wraps": 67.21,
+    "bottles_jars": 67.21,
+    "packaging": 48.53,
+    "durable_plastics": 301.9,
+    "plates_cups": 7.63,
+    "trash_bags": 19.32
+  },
+  {
+    "bags_sacks_wraps": 43.53,
+    "bottles_jars": 36.83,
+    "packaging": 17.38,
+    "durable_plastics": 352.9,
+    "plates_cups": 13.38,
+    "trash_bags": 18.64
+  },
+  {
+    "bags_sacks_wraps": 38.23,
+    "bottles_jars": 31.08,
+    "packaging": 27.28,
+    "durable_plastics": 316.1,
+    "plates_cups": 10.85,
+    "trash_bags": 18.88
+  },
+  {
+    "bags_sacks_wraps": 38.41,
+    "bottles_jars": 36.3,
+    "packaging": 35.18,
+    "durable_plastics": 373,
+    "plates_cups": 3.23,
+    "trash_bags": 21.32
+  },
+  {
+    "bags_sacks_wraps": 44.53,
+    "bottles_jars": 38.87,
+    "packaging": 34.7,
+    "durable_plastics": 333.6,
+    "plates_cups": 11.03,
+    "trash_bags": 15.18
+  },
+  {
+    "bags_sacks_wraps": 42.47,
+    "bottles_jars": 36.81,
+    "packaging": 34.03,
+    "durable_plastics": 390.3,
+    "plates_cups": 9.72,
+    "trash_bags": 17.61
+  },
+  {
+    "bags_sacks_wraps": 48.66,
+    "bottles_jars": 45.07,
+    "packaging": 41.03,
+    "durable_plastics": 352.2,
+    "plates_cups": 8.13,
+    "trash_bags": 17.68
+  },
+  {
+    "bags_sacks_wraps": 54.76,
+    "bottles_jars": 54.76,
+    "packaging": 32.04,
+    "durable_plastics": 321,
+    "plates_cups": 5.06,
+    "trash_bags": 6.42
+  },
+  {
+    "bags_sacks_wraps": 46.23,
+    "bottles_jars": 40.5,
+    "packaging": 44.81,
+    "durable_plastics": 319.1,
+    "plates_cups": 12.6,
+    "trash_bags": 21.59
+  },
+  {
+    "bags_sacks_wraps": 46.26,
+    "bottles_jars": 40.85,
+    "packaging": 44.67,
+    "durable_plastics": 327.1,
+    "plates_cups": 11.57,
+    "trash_bags": 19.39
+  },
+  {
+    "bags_sacks_wraps": 45.45,
+    "bottles_jars": 45.39,
+    "packaging": 43.15,
+    "durable_plastics": 381.2,
+    "plates_cups": 1.53,
+    "trash_bags": 5.87
+  },
+  {
+    "bags_sacks_wraps": 43.54,
+    "bottles_jars": 39.61,
+    "packaging": 36.89,
+    "durable_plastics": 369.2,
+    "plates_cups": 6.62,
+    "trash_bags": 9.1
+  },
+  {
+    "bags_sacks_wraps": 47.66,
+    "bottles_jars": 45.36,
+    "packaging": 28.12,
+    "durable_plastics": 378.6,
+    "plates_cups": 5.18,
+    "trash_bags": 14.15
+  },
+  {
+    "bags_sacks_wraps": 51.62,
+    "bottles_jars": 51.63,
+    "packaging": 29.56,
+    "durable_plastics": 365.8,
+    "plates_cups": 6.15,
+    "trash_bags": 32.3
+  },
+  {
+    "bags_sacks_wraps": 51.27,
+    "bottles_jars": 51.27,
+    "packaging": 42.87,
+    "durable_plastics": 356.5,
+    "plates_cups": 10.72,
+    "trash_bags": 20.77
+  },
+  {
+    "bags_sacks_wraps": 47.57,
+    "bottles_jars": 45.97,
+    "packaging": 42.54,
+    "durable_plastics": 325.6,
+    "plates_cups": 4.13,
+    "trash_bags": 14.25
+  },
+  {
+    "bags_sacks_wraps": 51.54,
+    "bottles_jars": 51.54,
+    "packaging": 45.89,
+    "durable_plastics": 371,
+    "plates_cups": 2.71,
+    "trash_bags": 4.04
+  },
+  {
+    "bags_sacks_wraps": 57.31,
+    "bottles_jars": 57.31,
+    "packaging": 25.43,
+    "durable_plastics": 377.5,
+    "plates_cups": 1.33,
+    "trash_bags": 9.35
+  },
+  {
+    "bags_sacks_wraps": 55.43,
+    "bottles_jars": 55.43,
+    "packaging": 42.95,
+    "durable_plastics": 390.8,
+    "plates_cups": 4.47,
+    "trash_bags": 9.1
+  },
+  {
+    "bags_sacks_wraps": 49.38,
+    "bottles_jars": 47.06,
+    "packaging": 44.63,
+    "durable_plastics": 359.9,
+    "plates_cups": 5.72,
+    "trash_bags": 9.02
+  },
+  {
+    "bags_sacks_wraps": 46.45,
+    "bottles_jars": 43.65,
+    "packaging": 28.16,
+    "durable_plastics": 430.5,
+    "plates_cups": 5.65,
+    "trash_bags": 19.99
+  },
+  {
+    "bags_sacks_wraps": 44.6,
+    "bottles_jars": 40.3,
+    "packaging": 27.44,
+    "durable_plastics": 442,
+    "plates_cups": 7.73,
+    "trash_bags": 30.81
+  },
+  {
+    "bags_sacks_wraps": 49.26,
+    "bottles_jars": 48.35,
+    "packaging": 24.05,
+    "durable_plastics": 389.2,
+    "plates_cups": 3.48,
+    "trash_bags": 8.74
+  },
+  {
+    "bags_sacks_wraps": 57.02,
+    "bottles_jars": 57.02,
+    "packaging": 48.19,
+    "durable_plastics": 338.3,
+    "plates_cups": 5.32,
+    "trash_bags": 26.48
+  },
+  {
+    "bags_sacks_wraps": 62.43,
+    "bottles_jars": 62.43,
+    "packaging": 46.05,
+    "durable_plastics": 320.2,
+    "plates_cups": 7.06,
+    "trash_bags": 23.05
+  },
+  {
+    "bags_sacks_wraps": 50.12,
+    "bottles_jars": 50.06,
+    "packaging": 38.44,
+    "durable_plastics": 342,
+    "plates_cups": 6.17,
+    "trash_bags": 15.12
+  },
+  {
+    "bags_sacks_wraps": 48,
+    "bottles_jars": 43.28,
+    "packaging": 23.2,
+    "durable_plastics": 377.7,
+    "plates_cups": 10.83,
+    "trash_bags": 16.66
+  },
+  {
+    "bags_sacks_wraps": 39.72,
+    "bottles_jars": 34.93,
+    "packaging": 25.77,
+    "durable_plastics": 434.7,
+    "plates_cups": 6.76,
+    "trash_bags": 23.27
+  },
+  {
+    "bags_sacks_wraps": 45.27,
+    "bottles_jars": 42.98,
+    "packaging": 39.32,
+    "durable_plastics": 384.3,
+    "plates_cups": 4.55,
+    "trash_bags": 8.91
+  },
+  {
+    "bags_sacks_wraps": 43.04,
+    "bottles_jars": 38.98,
+    "packaging": 28.13,
+    "durable_plastics": 380.2,
+    "plates_cups": 6.67,
+    "trash_bags": 13.7
+  },
+  {
+    "bags_sacks_wraps": 55.02,
+    "bottles_jars": 55.02,
+    "packaging": 35.65,
+    "durable_plastics": 350.7,
+    "plates_cups": 6.84,
+    "trash_bags": 18.38
+  },
+  {
+    "bags_sacks_wraps": 47.97,
+    "bottles_jars": 45.31,
+    "packaging": 32.82,
+    "durable_plastics": 374.5,
+    "plates_cups": 5.88,
+    "trash_bags": 9.83
+  },
+  {
+    "bags_sacks_wraps": 43.37,
+    "bottles_jars": 38.98,
+    "packaging": 25.85,
+    "durable_plastics": 419.5,
+    "plates_cups": 7.42,
+    "trash_bags": 29.2
+  },
+  {
+    "bags_sacks_wraps": 45.36,
+    "bottles_jars": 43.05,
+    "packaging": 17.82,
+    "durable_plastics": 372.8,
+    "plates_cups": 4.6,
+    "trash_bags": 13.37
+  },
+  {
+    "bags_sacks_wraps": 45.32,
+    "bottles_jars": 42.03,
+    "packaging": 36.98,
+    "durable_plastics": 336.7,
+    "plates_cups": 6.1,
+    "trash_bags": 9.2
+  },
+  {
+    "bags_sacks_wraps": 47.36,
+    "bottles_jars": 47.39,
+    "packaging": 44.17,
+    "durable_plastics": 359.4,
+    "plates_cups": 2.89,
+    "trash_bags": 4.94
+  },
+  {
+    "bags_sacks_wraps": 49.91,
+    "bottles_jars": 49.86,
+    "packaging": 39.06,
+    "durable_plastics": 366.4,
+    "plates_cups": 1.66,
+    "trash_bags": 13.11
+  },
+  {
+    "bags_sacks_wraps": 43.98,
+    "bottles_jars": 37.94,
+    "packaging": 41.04,
+    "durable_plastics": 396.3,
+    "plates_cups": 11.76,
+    "trash_bags": 21.27
+  },
+  {
+    "bags_sacks_wraps": 44.49,
+    "bottles_jars": 44.47,
+    "packaging": 36.88,
+    "durable_plastics": 407.3,
+    "plates_cups": 2.75,
+    "trash_bags": 19.37
+  },
+  {
+    "bags_sacks_wraps": 54.18,
+    "bottles_jars": 54.18,
+    "packaging": 43.87,
+    "durable_plastics": 365.6,
+    "plates_cups": 3.25,
+    "trash_bags": 4.55
+  },
+  {
+    "bags_sacks_wraps": 51.38,
+    "bottles_jars": 51.38,
+    "packaging": 44.05,
+    "durable_plastics": 331.9,
+    "plates_cups": 15.12,
+    "trash_bags": 26.13
+  },
+  {
+    "bags_sacks_wraps": 55.75,
+    "bottles_jars": 55.75,
+    "packaging": 53.78,
+    "durable_plastics": 330.3,
+    "plates_cups": 9.51,
+    "trash_bags": 21.82
+  },
+  {
+    "bags_sacks_wraps": 60.88,
+    "bottles_jars": 60.88,
+    "packaging": 48.04,
+    "durable_plastics": 389.7,
+    "plates_cups": 7.47,
+    "trash_bags": 21.62
+  },
+  {
+    "bags_sacks_wraps": 64.65,
+    "bottles_jars": 64.65,
+    "packaging": 39.33,
+    "durable_plastics": 318.6,
+    "plates_cups": 6.3,
+    "trash_bags": 15.07
+  },
+  {
+    "bags_sacks_wraps": 68.7,
+    "bottles_jars": 68.7,
+    "packaging": 50.44,
+    "durable_plastics": 306.9,
+    "plates_cups": 7.07,
+    "trash_bags": 15.89
+  },
+  {
+    "bags_sacks_wraps": 51.24,
+    "bottles_jars": 51.24,
+    "packaging": 33.53,
+    "durable_plastics": 342.1,
+    "plates_cups": 5.68,
+    "trash_bags": 23.77
+  },
+  {
+    "bags_sacks_wraps": 54.95,
+    "bottles_jars": 54.95,
+    "packaging": 30.05,
+    "durable_plastics": 335.4,
+    "plates_cups": 4.01,
+    "trash_bags": 7.2
+  },
+  {
+    "bags_sacks_wraps": 46.43,
+    "bottles_jars": 43.93,
+    "packaging": 42.4,
+    "durable_plastics": 382.7,
+    "plates_cups": 5.15,
+    "trash_bags": 6.72
+  },
+  {
+    "bags_sacks_wraps": 59.33,
+    "bottles_jars": 59.33,
+    "packaging": 33.52,
+    "durable_plastics": 380,
+    "plates_cups": 11.64,
+    "trash_bags": 17.94
+  },
+  {
+    "bags_sacks_wraps": 44.68,
+    "bottles_jars": 44.63,
+    "packaging": 43.4,
+    "durable_plastics": 388.1,
+    "plates_cups": 1.86,
+    "trash_bags": 16.8
+  },
+  {
+    "bags_sacks_wraps": 42.39,
+    "bottles_jars": 42.21,
+    "packaging": 25.39,
+    "durable_plastics": 393.6,
+    "plates_cups": 2.88,
+    "trash_bags": 23.21
+  },
+  {
+    "bags_sacks_wraps": 55.33,
+    "bottles_jars": 55.33,
+    "packaging": 34.04,
+    "durable_plastics": 397.8,
+    "plates_cups": 9.83,
+    "trash_bags": 20.72
+  },
+  {
+    "bags_sacks_wraps": 47.08,
+    "bottles_jars": 44.01,
+    "packaging": 33.08,
+    "durable_plastics": 407.3,
+    "plates_cups": 6.34,
+    "trash_bags": 27.76
+  },
+  {
+    "bags_sacks_wraps": 53.05,
+    "bottles_jars": 53.05,
+    "packaging": 24.36,
+    "durable_plastics": 400.4,
+    "plates_cups": 3.15,
+    "trash_bags": 20.91
+  },
+  {
+    "bags_sacks_wraps": 53.09,
+    "bottles_jars": 53.09,
+    "packaging": 39.48,
+    "durable_plastics": 374.3,
+    "plates_cups": 0.53,
+    "trash_bags": 5.85
+  },
+  {
+    "bags_sacks_wraps": 60.44,
+    "bottles_jars": 60.44,
+    "packaging": 50.12,
+    "durable_plastics": 342.7,
+    "plates_cups": 5.22,
+    "trash_bags": 11.86
+  },
+  {
+    "bags_sacks_wraps": 73.23,
+    "bottles_jars": 73.23,
+    "packaging": 59.73,
+    "durable_plastics": 330.7,
+    "plates_cups": 8.16,
+    "trash_bags": 16.31
+  },
+  {
+    "bags_sacks_wraps": 63.04,
+    "bottles_jars": 63.04,
+    "packaging": 48.93,
+    "durable_plastics": 326.4,
+    "plates_cups": 4.98,
+    "trash_bags": 11.78
+  },
+  {
+    "bags_sacks_wraps": 55.87,
+    "bottles_jars": 55.87,
+    "packaging": 46.63,
+    "durable_plastics": 307.2,
+    "plates_cups": 8.75,
+    "trash_bags": 10.2
+  },
+  {
+    "bags_sacks_wraps": 59.41,
+    "bottles_jars": 59.41,
+    "packaging": 48.14,
+    "durable_plastics": 309.6,
+    "plates_cups": 10.92,
+    "trash_bags": 21.68
+  },
+  {
+    "bags_sacks_wraps": 55.18,
+    "bottles_jars": 55.18,
+    "packaging": 37.51,
+    "durable_plastics": 314.5,
+    "plates_cups": 10.52,
+    "trash_bags": 21.88
+  },
+  {
+    "bags_sacks_wraps": 51.03,
+    "bottles_jars": 51.03,
+    "packaging": 37.66,
+    "durable_plastics": 342.8,
+    "plates_cups": 7.31,
+    "trash_bags": 12.67
+  },
+  {
+    "bags_sacks_wraps": 55.3,
+    "bottles_jars": 55.3,
+    "packaging": 50.05,
+    "durable_plastics": 318.5,
+    "plates_cups": 1.52,
+    "trash_bags": 12.02
+  },
+  {
+    "bags_sacks_wraps": 62.62,
+    "bottles_jars": 63.05,
+    "packaging": 61.21,
+    "durable_plastics": 332.7,
+    "plates_cups": 5.38,
+    "trash_bags": 8.79
+  },
+  {
+    "bags_sacks_wraps": 56.59,
+    "bottles_jars": 56.59,
+    "packaging": 46.07,
+    "durable_plastics": 318.5,
+    "plates_cups": 12.71,
+    "trash_bags": 22.7
+  },
+  {
+    "bags_sacks_wraps": 58.93,
+    "bottles_jars": 58.93,
+    "packaging": 53.56,
+    "durable_plastics": 319.2,
+    "plates_cups": 6.7,
+    "trash_bags": 9.57
+  },
+  {
+    "bags_sacks_wraps": 59.62,
+    "bottles_jars": 59.62,
+    "packaging": 55.66,
+    "durable_plastics": 318.7,
+    "plates_cups": 4.36,
+    "trash_bags": 7.38
+  },
+  {
+    "bags_sacks_wraps": 61.56,
+    "bottles_jars": 61.56,
+    "packaging": 57.45,
+    "durable_plastics": 321.2,
+    "plates_cups": 5.07,
+    "trash_bags": 9.99
+  },
+  {
+    "bags_sacks_wraps": 62.71,
+    "bottles_jars": 63.07,
+    "packaging": 60.78,
+    "durable_plastics": 305.2,
+    "plates_cups": 1.59,
+    "trash_bags": 10.12
+  },
+  {
+    "bags_sacks_wraps": 64.85,
+    "bottles_jars": 65.46,
+    "packaging": 63.11,
+    "durable_plastics": 306.9,
+    "plates_cups": 5.78,
+    "trash_bags": 16.82
+  },
+  {
+    "bags_sacks_wraps": 68.68,
+    "bottles_jars": 69.15,
+    "packaging": 63.31,
+    "durable_plastics": 312.8,
+    "plates_cups": 5.04,
+    "trash_bags": 12.66
+  },
+  {
+    "bags_sacks_wraps": 73.17,
+    "bottles_jars": 73.17,
+    "packaging": 52.75,
+    "durable_plastics": 320.9,
+    "plates_cups": 6.15,
+    "trash_bags": 20.27
+  },
+  {
+    "bags_sacks_wraps": 59.47,
+    "bottles_jars": 59.47,
+    "packaging": 34.51,
+    "durable_plastics": 363.7,
+    "plates_cups": 6.5,
+    "trash_bags": 21.73
+  },
+  {
+    "bags_sacks_wraps": 64.89,
+    "bottles_jars": 64.89,
+    "packaging": 39.67,
+    "durable_plastics": 334.5,
+    "plates_cups": 0.54,
+    "trash_bags": 4.97
+  },
+  {
+    "bags_sacks_wraps": 67.61,
+    "bottles_jars": 67.61,
+    "packaging": 49.46,
+    "durable_plastics": 339.2,
+    "plates_cups": 5.51,
+    "trash_bags": 10.18
+  },
+  {
+    "bags_sacks_wraps": 67.87,
+    "bottles_jars": 68.55,
+    "packaging": 64.61,
+    "durable_plastics": 324.9,
+    "plates_cups": 3.02,
+    "trash_bags": 5.31
+  },
+  {
+    "bags_sacks_wraps": 75.22,
+    "bottles_jars": 75.51,
+    "packaging": 62.73,
+    "durable_plastics": 307,
+    "plates_cups": 5.7,
+    "trash_bags": 13.82
+  },
+  {
+    "bags_sacks_wraps": 71.04,
+    "bottles_jars": 72.31,
+    "packaging": 69.54,
+    "durable_plastics": 306.8,
+    "plates_cups": 4.83,
+    "trash_bags": 12.41
+  },
+  {
+    "bags_sacks_wraps": 75.13,
+    "bottles_jars": 75.13,
+    "packaging": 46.2,
+    "durable_plastics": 323.1,
+    "plates_cups": 6.14,
+    "trash_bags": 19.8
+  },
+  {
+    "bags_sacks_wraps": 69.23,
+    "bottles_jars": 69.23,
+    "packaging": 46.19,
+    "durable_plastics": 318.3,
+    "plates_cups": 5.59,
+    "trash_bags": 9.24
+  },
+  {
+    "bags_sacks_wraps": 70.12,
+    "bottles_jars": 70.12,
+    "packaging": 54.62,
+    "durable_plastics": 292.8,
+    "plates_cups": 1.21,
+    "trash_bags": 7.43
+  },
+  {
+    "bags_sacks_wraps": 77.18,
+    "bottles_jars": 77.46,
+    "packaging": 62.58,
+    "durable_plastics": 290.4,
+    "plates_cups": 7.09,
+    "trash_bags": 14.76
+  },
+  {
+    "bags_sacks_wraps": 71.06,
+    "bottles_jars": 71.88,
+    "packaging": 66.49,
+    "durable_plastics": 282.5,
+    "plates_cups": 2.66,
+    "trash_bags": 21.57
+  },
+  {
+    "bags_sacks_wraps": 72.3,
+    "bottles_jars": 73.53,
+    "packaging": 69.67,
+    "durable_plastics": 299,
+    "plates_cups": 1.86,
+    "trash_bags": 11.12
+  },
+  {
+    "bags_sacks_wraps": 74.1,
+    "bottles_jars": 74.1,
+    "packaging": 53.58,
+    "durable_plastics": 315.1,
+    "plates_cups": 4.68,
+    "trash_bags": 13.23
+  },
+  {
+    "bags_sacks_wraps": 63.56,
+    "bottles_jars": 63.56,
+    "packaging": 40.97,
+    "durable_plastics": 326.2,
+    "plates_cups": 10.72,
+    "trash_bags": 17.69
+  },
+  {
+    "bags_sacks_wraps": 63.28,
+    "bottles_jars": 63.28,
+    "packaging": 51.08,
+    "durable_plastics": 345.9,
+    "plates_cups": 5.94,
+    "trash_bags": 7.41
+  },
+  {
+    "bags_sacks_wraps": 62.93,
+    "bottles_jars": 62.93,
+    "packaging": 54.6,
+    "durable_plastics": 335.2,
+    "plates_cups": 4.76,
+    "trash_bags": 8.24
+  },
+  {
+    "bags_sacks_wraps": 66.34,
+    "bottles_jars": 66.34,
+    "packaging": 54.56,
+    "durable_plastics": 329.2,
+    "plates_cups": 7.01,
+    "trash_bags": 9.79
+  },
+  {
+    "bags_sacks_wraps": 66.34,
+    "bottles_jars": 66.8,
+    "packaging": 62.66,
+    "durable_plastics": 316,
+    "plates_cups": 3.94,
+    "trash_bags": 9.06
+  },
+  {
+    "bags_sacks_wraps": 65.88,
+    "bottles_jars": 66.65,
+    "packaging": 64.54,
+    "durable_plastics": 324,
+    "plates_cups": 6.9,
+    "trash_bags": 8.72
+  },
+  {
+    "bags_sacks_wraps": 72.56,
+    "bottles_jars": 73.24,
+    "packaging": 65.77,
+    "durable_plastics": 330.3,
+    "plates_cups": 3.87,
+    "trash_bags": 10.15
+  },
+  {
+    "bags_sacks_wraps": 71.69,
+    "bottles_jars": 72.36,
+    "packaging": 65.49,
+    "durable_plastics": 326,
+    "plates_cups": 3.54,
+    "trash_bags": 8.5
+  },
+  {
+    "bags_sacks_wraps": 74.3,
+    "bottles_jars": 75.17,
+    "packaging": 67.6,
+    "durable_plastics": 316.8,
+    "plates_cups": 4.8,
+    "trash_bags": 12.63
+  },
+  {
+    "bags_sacks_wraps": 76.98,
+    "bottles_jars": 77.62,
+    "packaging": 66.02,
+    "durable_plastics": 311.7,
+    "plates_cups": 4.49,
+    "trash_bags": 15.57
+  },
+  {
+    "bags_sacks_wraps": 73.83,
+    "bottles_jars": 75.02,
+    "packaging": 69.8,
+    "durable_plastics": 310,
+    "plates_cups": 1.32,
+    "trash_bags": 12.39
+  },
+  {
+    "bags_sacks_wraps": 75.16,
+    "bottles_jars": 75.16,
+    "packaging": 57.72,
+    "durable_plastics": 317.3,
+    "plates_cups": 5.68,
+    "trash_bags": 12.81
+  },
+  {
+    "bags_sacks_wraps": 73.39,
+    "bottles_jars": 73.76,
+    "packaging": 63.38,
+    "durable_plastics": 345.8,
+    "plates_cups": 3.43,
+    "trash_bags": 6.8
+  },
+  {
+    "bags_sacks_wraps": 77.91,
+    "bottles_jars": 77.91,
+    "packaging": 56.72,
+    "durable_plastics": 327.9,
+    "plates_cups": 7.24,
+    "trash_bags": 10.62
+  },
+  {
+    "bags_sacks_wraps": 75.21,
+    "bottles_jars": 76.34,
+    "packaging": 69.74,
+    "durable_plastics": 325.7,
+    "plates_cups": 0.61,
+    "trash_bags": 6.39
+  },
+  {
+    "bags_sacks_wraps": 73.45,
+    "bottles_jars": 74.28,
+    "packaging": 67.07,
+    "durable_plastics": 337.7,
+    "plates_cups": 4.39,
+    "trash_bags": 7.17
+  },
+  {
+    "bags_sacks_wraps": 72.78,
+    "bottles_jars": 73.24,
+    "packaging": 64.05,
+    "durable_plastics": 338.2,
+    "plates_cups": 1.65,
+    "trash_bags": 7.09
+  },
+  {
+    "bags_sacks_wraps": 70.74,
+    "bottles_jars": 71.45,
+    "packaging": 65.61,
+    "durable_plastics": 342.9,
+    "plates_cups": 3.95,
+    "trash_bags": 3.95
+  },
+  {
+    "bags_sacks_wraps": 72.6,
+    "bottles_jars": 73.18,
+    "packaging": 64.98,
+    "durable_plastics": 338.3,
+    "plates_cups": 3.59,
+    "trash_bags": 4.6
+  },
+  {
+    "bags_sacks_wraps": 81.13,
+    "bottles_jars": 83.34,
+    "packaging": 66.28,
+    "durable_plastics": 311.2,
+    "plates_cups": 2.42,
+    "trash_bags": 5.94
+  },
+  {
+    "bags_sacks_wraps": 73.21,
+    "bottles_jars": 74.47,
+    "packaging": 70.16,
+    "durable_plastics": 310.6,
+    "plates_cups": 4.63,
+    "trash_bags": 8.21
+  },
+  {
+    "bags_sacks_wraps": 73.02,
+    "bottles_jars": 73.8,
+    "packaging": 66.6,
+    "durable_plastics": 310.9,
+    "plates_cups": 2.04,
+    "trash_bags": 12.52
+  },
+  {
+    "bags_sacks_wraps": 80.68,
+    "bottles_jars": 84.42,
+    "packaging": 70.88,
+    "durable_plastics": 316.8,
+    "plates_cups": 0.56,
+    "trash_bags": 4.34
+  },
+  {
+    "bags_sacks_wraps": 73.02,
+    "bottles_jars": 74.14,
+    "packaging": 69.13,
+    "durable_plastics": 323.2,
+    "plates_cups": 10.04,
+    "trash_bags": 17.26
+  },
+  {
+    "bags_sacks_wraps": 76.31,
+    "bottles_jars": 77.85,
+    "packaging": 72.98,
+    "durable_plastics": 310,
+    "plates_cups": 6.89,
+    "trash_bags": 15.56
+  },
+  {
+    "bags_sacks_wraps": 76.79,
+    "bottles_jars": 78.33,
+    "packaging": 73.14,
+    "durable_plastics": 300.5,
+    "plates_cups": 1.21,
+    "trash_bags": 13.21
+  },
+  {
+    "bags_sacks_wraps": 77.64,
+    "bottles_jars": 79.12,
+    "packaging": 72.97,
+    "durable_plastics": 300.1,
+    "plates_cups": 4.5,
+    "trash_bags": 11.75
+  },
+  {
+    "bags_sacks_wraps": 75.03,
+    "bottles_jars": 76.66,
+    "packaging": 73.23,
+    "durable_plastics": 294,
+    "plates_cups": 10.2,
+    "trash_bags": 21.53
+  },
+  {
+    "bags_sacks_wraps": 77.36,
+    "bottles_jars": 78.84,
+    "packaging": 72.85,
+    "durable_plastics": 319.5,
+    "plates_cups": 5.65,
+    "trash_bags": 14.6
+  },
+  {
+    "bags_sacks_wraps": 79.3,
+    "bottles_jars": 81.4,
+    "packaging": 66.54,
+    "durable_plastics": 305.5,
+    "plates_cups": 1.98,
+    "trash_bags": 12.88
+  },
+  {
+    "bags_sacks_wraps": 80.04,
+    "bottles_jars": 81.06,
+    "packaging": 61.16,
+    "durable_plastics": 325.1,
+    "plates_cups": 4.96,
+    "trash_bags": 13.05
+  },
+  {
+    "bags_sacks_wraps": 78.14,
+    "bottles_jars": 78.67,
+    "packaging": 65.06,
+    "durable_plastics": 316.2,
+    "plates_cups": 0.68,
+    "trash_bags": 6.66
+  },
+  {
+    "bags_sacks_wraps": 72.58,
+    "bottles_jars": 73.05,
+    "packaging": 64.13,
+    "durable_plastics": 294.6,
+    "plates_cups": 6.96,
+    "trash_bags": 12.66
+  },
+  {
+    "bags_sacks_wraps": 70.57,
+    "bottles_jars": 70.57,
+    "packaging": 59.9,
+    "durable_plastics": 293.5,
+    "plates_cups": 8.2,
+    "trash_bags": 16.87
+  },
+  {
+    "bags_sacks_wraps": 78.87,
+    "bottles_jars": 82.09,
+    "packaging": 73.11,
+    "durable_plastics": 296.3,
+    "plates_cups": 8.84,
+    "trash_bags": 8.84
+  },
+  {
+    "bags_sacks_wraps": 79.7,
+    "bottles_jars": 82.57,
+    "packaging": 69.58,
+    "durable_plastics": 307.7,
+    "plates_cups": 3.59,
+    "trash_bags": 9.62
+  },
+  {
+    "bags_sacks_wraps": 82.61,
+    "bottles_jars": 87.11,
+    "packaging": 70.95,
+    "durable_plastics": 301.2,
+    "plates_cups": 7.62,
+    "trash_bags": 21.17
+  },
+  {
+    "bags_sacks_wraps": 84.22,
+    "bottles_jars": 86.42,
+    "packaging": 65.96,
+    "durable_plastics": 306.8,
+    "plates_cups": 1.02,
+    "trash_bags": 9.5
+  },
+  {
+    "bags_sacks_wraps": 80.25,
+    "bottles_jars": 83.35,
+    "packaging": 69.56,
+    "durable_plastics": 297.2,
+    "plates_cups": 3.25,
+    "trash_bags": 8.48
+  },
+  {
+    "bags_sacks_wraps": 75.06,
+    "bottles_jars": 76.46,
+    "packaging": 71.65,
+    "durable_plastics": 307.6,
+    "plates_cups": 7.75,
+    "trash_bags": 14.28
+  },
+  {
+    "bags_sacks_wraps": 79.65,
+    "bottles_jars": 83.56,
+    "packaging": 73.15,
+    "durable_plastics": 297.9,
+    "plates_cups": 4.04,
+    "trash_bags": 8.03
+  },
+  {
+    "bags_sacks_wraps": 74.75,
+    "bottles_jars": 76.1,
+    "packaging": 71.28,
+    "durable_plastics": 316.6,
+    "plates_cups": 3.04,
+    "trash_bags": 5.14
+  },
+  {
+    "bags_sacks_wraps": 80.23,
+    "bottles_jars": 84.57,
+    "packaging": 73.11,
+    "durable_plastics": 308.8,
+    "plates_cups": 7.4,
+    "trash_bags": 16.18
+  },
+  {
+    "bags_sacks_wraps": 83,
+    "bottles_jars": 85.07,
+    "packaging": 65.72,
+    "durable_plastics": 300,
+    "plates_cups": 4.85,
+    "trash_bags": 12.37
+  },
+  {
+    "bags_sacks_wraps": 84.95,
+    "bottles_jars": 89.95,
+    "packaging": 70.71,
+    "durable_plastics": 308.5,
+    "plates_cups": 7.79,
+    "trash_bags": 20.88
+  },
+  {
+    "bags_sacks_wraps": 82.25,
+    "bottles_jars": 84.97,
+    "packaging": 67.43,
+    "durable_plastics": 307.3,
+    "plates_cups": 1.4,
+    "trash_bags": 7.06
+  },
+  {
+    "bags_sacks_wraps": 80.13,
+    "bottles_jars": 83.59,
+    "packaging": 70.86,
+    "durable_plastics": 310.3,
+    "plates_cups": 5.47,
+    "trash_bags": 6.52
+  },
+  {
+    "bags_sacks_wraps": 83.1,
+    "bottles_jars": 85.62,
+    "packaging": 66.79,
+    "durable_plastics": 295.3,
+    "plates_cups": 5.16,
+    "trash_bags": 5.16
+  },
+  {
+    "bags_sacks_wraps": 75.48,
+    "bottles_jars": 76.51,
+    "packaging": 69.1,
+    "durable_plastics": 300.4,
+    "plates_cups": 3.2,
+    "trash_bags": 3.2
+  },
+  {
+    "bags_sacks_wraps": 77.69,
+    "bottles_jars": 79.01,
+    "packaging": 71.74,
+    "durable_plastics": 293.5,
+    "plates_cups": 5.32,
+    "trash_bags": 17.03
+  },
+  {
+    "bags_sacks_wraps": 82.22,
+    "bottles_jars": 89.03,
+    "packaging": 75,
+    "durable_plastics": 290.1,
+    "plates_cups": 6.67,
+    "trash_bags": 23.25
+  },
+  {
+    "bags_sacks_wraps": 74.57,
+    "bottles_jars": 75.77,
+    "packaging": 70.05,
+    "durable_plastics": 283.1,
+    "plates_cups": 0.7,
+    "trash_bags": 4.63
+  },
+  {
+    "bags_sacks_wraps": 77.45,
+    "bottles_jars": 78.5,
+    "packaging": 69.53,
+    "durable_plastics": 283.4,
+    "plates_cups": 7.76,
+    "trash_bags": 21.11
+  },
+  {
+    "bags_sacks_wraps": 78.54,
+    "bottles_jars": 78.73,
+    "packaging": 61.54,
+    "durable_plastics": 289.9,
+    "plates_cups": 1.03,
+    "trash_bags": 5.73
+  },
+  {
+    "bags_sacks_wraps": 75.06,
+    "bottles_jars": 75.34,
+    "packaging": 62.64,
+    "durable_plastics": 289.5,
+    "plates_cups": 3.23,
+    "trash_bags": 5.44
+  },
+  {
+    "bags_sacks_wraps": 73.09,
+    "bottles_jars": 74.45,
+    "packaging": 70.76,
+    "durable_plastics": 306.9,
+    "plates_cups": 3.41,
+    "trash_bags": 6.17
+  },
+  {
+    "bags_sacks_wraps": 73.49,
+    "bottles_jars": 74.67,
+    "packaging": 69.69,
+    "durable_plastics": 311,
+    "plates_cups": 4.58,
+    "trash_bags": 9.86
+  },
+  {
+    "bags_sacks_wraps": 79.72,
+    "bottles_jars": 83.46,
+    "packaging": 72.56,
+    "durable_plastics": 309,
+    "plates_cups": 7.75,
+    "trash_bags": 13.08
+  },
+  {
+    "bags_sacks_wraps": 81.64,
+    "bottles_jars": 87.7,
+    "packaging": 74.52,
+    "durable_plastics": 302,
+    "plates_cups": 5.41,
+    "trash_bags": 11.39
+  },
+  {
+    "bags_sacks_wraps": 79.94,
+    "bottles_jars": 84.25,
+    "packaging": 73.66,
+    "durable_plastics": 295.1,
+    "plates_cups": 5.54,
+    "trash_bags": 14.74
+  },
+  {
+    "bags_sacks_wraps": 78.25,
+    "bottles_jars": 79.53,
+    "packaging": 71.86,
+    "durable_plastics": 293.5,
+    "plates_cups": 3.6,
+    "trash_bags": 4.64
+  },
+  {
+    "bags_sacks_wraps": 76.31,
+    "bottles_jars": 77.77,
+    "packaging": 72.43,
+    "durable_plastics": 296.6,
+    "plates_cups": 3.07,
+    "trash_bags": 3.82
+  },
+  {
+    "bags_sacks_wraps": 78.6,
+    "bottles_jars": 79.37,
+    "packaging": 67.27,
+    "durable_plastics": 290.1,
+    "plates_cups": 5.66,
+    "trash_bags": 5.66
+  },
+  {
+    "bags_sacks_wraps": 73.51,
+    "bottles_jars": 73.91,
+    "packaging": 63.65,
+    "durable_plastics": 286.5,
+    "plates_cups": 12.28,
+    "trash_bags": 16.73
+  },
+  {
+    "bags_sacks_wraps": 69.6,
+    "bottles_jars": 69.79,
+    "packaging": 61.42,
+    "durable_plastics": 298.5,
+    "plates_cups": 13.53,
+    "trash_bags": 18.56
+  },
+  {
+    "bags_sacks_wraps": 70.56,
+    "bottles_jars": 71.36,
+    "packaging": 66.18,
+    "durable_plastics": 314.4,
+    "plates_cups": 0.67,
+    "trash_bags": 7.54
+  },
+  {
+    "bags_sacks_wraps": 75.42,
+    "bottles_jars": 75.87,
+    "packaging": 64.28,
+    "durable_plastics": 304.8,
+    "plates_cups": 0.66,
+    "trash_bags": 2.66
+  },
+  {
+    "bags_sacks_wraps": 71.56,
+    "bottles_jars": 72.21,
+    "packaging": 65.34,
+    "durable_plastics": 314.4,
+    "plates_cups": 4.48,
+    "trash_bags": 4.48
+  },
+  {
+    "bags_sacks_wraps": 70.65,
+    "bottles_jars": 70.84,
+    "packaging": 61.57,
+    "durable_plastics": 303.2,
+    "plates_cups": 5.72,
+    "trash_bags": 9.55
+  },
+  {
+    "bags_sacks_wraps": 77.66,
+    "bottles_jars": 78.63,
+    "packaging": 68.95,
+    "durable_plastics": 297.4,
+    "plates_cups": 8.96,
+    "trash_bags": 15.98
+  },
+  {
+    "bags_sacks_wraps": 78.4,
+    "bottles_jars": 79.29,
+    "packaging": 68.75,
+    "durable_plastics": 303.3,
+    "plates_cups": 6.27,
+    "trash_bags": 13.74
+  },
+  {
+    "bags_sacks_wraps": 77.34,
+    "bottles_jars": 78.63,
+    "packaging": 71.4,
+    "durable_plastics": 308.8,
+    "plates_cups": 4.44,
+    "trash_bags": 7.59
+  },
+  {
+    "bags_sacks_wraps": 79.21,
+    "bottles_jars": 81.85,
+    "packaging": 69.1,
+    "durable_plastics": 302.1,
+    "plates_cups": 4.96,
+    "trash_bags": 14.9
+  },
+  {
+    "bags_sacks_wraps": 76.08,
+    "bottles_jars": 76.08,
+    "packaging": 57.06,
+    "durable_plastics": 305.1,
+    "plates_cups": 2.21,
+    "trash_bags": 21.65
+  },
+  {
+    "bags_sacks_wraps": 74.56,
+    "bottles_jars": 74.91,
+    "packaging": 63.27,
+    "durable_plastics": 292.5,
+    "plates_cups": 4.02,
+    "trash_bags": 7.13
+  },
+  {
+    "bags_sacks_wraps": 74.67,
+    "bottles_jars": 75.45,
+    "packaging": 66.87,
+    "durable_plastics": 292.2,
+    "plates_cups": 4.94,
+    "trash_bags": 14.89
+  },
+  {
+    "bags_sacks_wraps": 73.61,
+    "bottles_jars": 74.74,
+    "packaging": 69.36,
+    "durable_plastics": 289.1,
+    "plates_cups": 8.27,
+    "trash_bags": 16.98
+  },
+  {
+    "bags_sacks_wraps": 76.66,
+    "bottles_jars": 77.48,
+    "packaging": 67.56,
+    "durable_plastics": 291.4,
+    "plates_cups": 7.39,
+    "trash_bags": 25.64
+  },
+  {
+    "bags_sacks_wraps": 72.42,
+    "bottles_jars": 72.42,
+    "packaging": 53.73,
+    "durable_plastics": 301.2,
+    "plates_cups": 4.95,
+    "trash_bags": 8.82
+  },
+  {
+    "bags_sacks_wraps": 72.53,
+    "bottles_jars": 72.94,
+    "packaging": 63.59,
+    "durable_plastics": 295.5,
+    "plates_cups": 5.53,
+    "trash_bags": 13.23
+  },
+  {
+    "bags_sacks_wraps": 72.44,
+    "bottles_jars": 73.15,
+    "packaging": 65.98,
+    "durable_plastics": 278,
+    "plates_cups": 10.33,
+    "trash_bags": 16.15
+  },
+  {
+    "bags_sacks_wraps": 77.47,
+    "bottles_jars": 79.03,
+    "packaging": 73.45,
+    "durable_plastics": 276.1,
+    "plates_cups": 4.72,
+    "trash_bags": 12.74
+  },
+  {
+    "bags_sacks_wraps": 73.5,
+    "bottles_jars": 74.97,
+    "packaging": 71.67,
+    "durable_plastics": 280.2,
+    "plates_cups": 3.2,
+    "trash_bags": 7.32
+  },
+  {
+    "bags_sacks_wraps": 74.58,
+    "bottles_jars": 74.58,
+    "packaging": 56.89,
+    "durable_plastics": 283.9,
+    "plates_cups": 0.89,
+    "trash_bags": 7.84
+  },
+  {
+    "bags_sacks_wraps": 70.71,
+    "bottles_jars": 70.71,
+    "packaging": 59.84,
+    "durable_plastics": 291.6,
+    "plates_cups": 7.18,
+    "trash_bags": 11.79
+  },
+  {
+    "bags_sacks_wraps": 72.35,
+    "bottles_jars": 72.57,
+    "packaging": 62.03,
+    "durable_plastics": 295.3,
+    "plates_cups": 6.03,
+    "trash_bags": 17.03
+  },
+  {
+    "bags_sacks_wraps": 72.5,
+    "bottles_jars": 73.01,
+    "packaging": 64.42,
+    "durable_plastics": 292.6,
+    "plates_cups": 4.42,
+    "trash_bags": 9.28
+  },
+  {
+    "bags_sacks_wraps": 72.12,
+    "bottles_jars": 73.01,
+    "packaging": 67.24,
+    "durable_plastics": 286.7,
+    "plates_cups": 3.79,
+    "trash_bags": 7.36
+  },
+  {
+    "bags_sacks_wraps": 76.82,
+    "bottles_jars": 78.57,
+    "packaging": 74.6,
+    "durable_plastics": 275.3,
+    "plates_cups": 3.77,
+    "trash_bags": 8.57
+  },
+  {
+    "bags_sacks_wraps": 75.03,
+    "bottles_jars": 76.67,
+    "packaging": 73.27,
+    "durable_plastics": 272.8,
+    "plates_cups": 0.18,
+    "trash_bags": 8.1
+  },
+  {
+    "bags_sacks_wraps": 67.85,
+    "bottles_jars": 67.85,
+    "packaging": 54.54,
+    "durable_plastics": 275.8,
+    "plates_cups": 8.02,
+    "trash_bags": 12.34
+  },
+  {
+    "bags_sacks_wraps": 64.06,
+    "bottles_jars": 64.06,
+    "packaging": 54.98,
+    "durable_plastics": 274.9,
+    "plates_cups": 6.93,
+    "trash_bags": 12.3
+  },
+  {
+    "bags_sacks_wraps": 72.54,
+    "bottles_jars": 73.08,
+    "packaging": 64.65,
+    "durable_plastics": 277,
+    "plates_cups": 6.81,
+    "trash_bags": 14.84
+  },
+  {
+    "bags_sacks_wraps": 63.25,
+    "bottles_jars": 63.25,
+    "packaging": 47.34,
+    "durable_plastics": 285.7,
+    "plates_cups": 9.44,
+    "trash_bags": 17.49
+  },
+  {
+    "bags_sacks_wraps": 62.01,
+    "bottles_jars": 62.01,
+    "packaging": 49.64,
+    "durable_plastics": 287.6,
+    "plates_cups": 4.52,
+    "trash_bags": 6.99
+  },
+  {
+    "bags_sacks_wraps": 67.1,
+    "bottles_jars": 67.1,
+    "packaging": 58.35,
+    "durable_plastics": 296.6,
+    "plates_cups": 11.15,
+    "trash_bags": 19.52
+  },
+  {
+    "bags_sacks_wraps": 70.42,
+    "bottles_jars": 71.16,
+    "packaging": 65.67,
+    "durable_plastics": 293,
+    "plates_cups": 0.04,
+    "trash_bags": 3.74
+  },
+  {
+    "bags_sacks_wraps": 60.51,
+    "bottles_jars": 60.51,
+    "packaging": 41.07,
+    "durable_plastics": 301.3,
+    "plates_cups": 8.71,
+    "trash_bags": 26.22
+  },
+  {
+    "bags_sacks_wraps": 58.47,
+    "bottles_jars": 58.47,
+    "packaging": 34.48,
+    "durable_plastics": 303,
+    "plates_cups": 6.44,
+    "trash_bags": 13.13
+  },
+  {
+    "bags_sacks_wraps": 57.82,
+    "bottles_jars": 57.82,
+    "packaging": 36.11,
+    "durable_plastics": 306.8,
+    "plates_cups": 6.13,
+    "trash_bags": 10.08
+  },
+  {
+    "bags_sacks_wraps": 60.01,
+    "bottles_jars": 60.01,
+    "packaging": 38.52,
+    "durable_plastics": 293.3,
+    "plates_cups": 5.37,
+    "trash_bags": 6.88
+  },
+  {
+    "bags_sacks_wraps": 63.71,
+    "bottles_jars": 63.71,
+    "packaging": 40.32,
+    "durable_plastics": 294.5,
+    "plates_cups": 2.37,
+    "trash_bags": 21.5
+  },
+  {
+    "bags_sacks_wraps": 72.75,
+    "bottles_jars": 72.75,
+    "packaging": 53.52,
+    "durable_plastics": 282.8,
+    "plates_cups": 1.12,
+    "trash_bags": 6.07
+  },
+  {
+    "bags_sacks_wraps": 68.62,
+    "bottles_jars": 68.62,
+    "packaging": 58.12,
+    "durable_plastics": 284.6,
+    "plates_cups": 4.27,
+    "trash_bags": 6.59
+  },
+  {
+    "bags_sacks_wraps": 68.48,
+    "bottles_jars": 68.75,
+    "packaging": 61.79,
+    "durable_plastics": 287.9,
+    "plates_cups": 1.06,
+    "trash_bags": 6.45
+  },
+  {
+    "bags_sacks_wraps": 68.68,
+    "bottles_jars": 69.45,
+    "packaging": 65.44,
+    "durable_plastics": 278,
+    "plates_cups": 0.5,
+    "trash_bags": 6.37
+  },
+  {
+    "bags_sacks_wraps": 71.33,
+    "bottles_jars": 72.63,
+    "packaging": 69.84,
+    "durable_plastics": 276.7,
+    "plates_cups": 5.88,
+    "trash_bags": 11.87
+  },
+  {
+    "bags_sacks_wraps": 69.68,
+    "bottles_jars": 70.25,
+    "packaging": 64.31,
+    "durable_plastics": 275.9,
+    "plates_cups": 4.95,
+    "trash_bags": 18.82
+  },
+  {
+    "bags_sacks_wraps": 71.34,
+    "bottles_jars": 72.64,
+    "packaging": 69.83,
+    "durable_plastics": 258.6,
+    "plates_cups": 9,
+    "trash_bags": 29.1
+  },
+  {
+    "bags_sacks_wraps": 64.37,
+    "bottles_jars": 64.37,
+    "packaging": 52,
+    "durable_plastics": 276.1,
+    "plates_cups": 12.82,
+    "trash_bags": 22.41
+  },
+  {
+    "bags_sacks_wraps": 65.24,
+    "bottles_jars": 65.24,
+    "packaging": 53.15,
+    "durable_plastics": 282.8,
+    "plates_cups": 5.37,
+    "trash_bags": 7.42
+  },
+  {
+    "bags_sacks_wraps": 58.94,
+    "bottles_jars": 58.94,
+    "packaging": 44.5,
+    "durable_plastics": 291.2,
+    "plates_cups": 1.83,
+    "trash_bags": 13.67
+  },
+  {
+    "bags_sacks_wraps": 60.64,
+    "bottles_jars": 60.64,
+    "packaging": 46.24,
+    "durable_plastics": 290.6,
+    "plates_cups": 3.67,
+    "trash_bags": 5.98
+  },
+  {
+    "bags_sacks_wraps": 60.17,
+    "bottles_jars": 60.17,
+    "packaging": 51.4,
+    "durable_plastics": 288.3,
+    "plates_cups": 4.25,
+    "trash_bags": 9.15
+  },
+  {
+    "bags_sacks_wraps": 61.13,
+    "bottles_jars": 61.13,
+    "packaging": 56.03,
+    "durable_plastics": 298.9,
+    "plates_cups": 1.64,
+    "trash_bags": 7.98
+  },
+  {
+    "bags_sacks_wraps": 62.38,
+    "bottles_jars": 62.38,
+    "packaging": 52.82,
+    "durable_plastics": 285.5,
+    "plates_cups": 11.07,
+    "trash_bags": 17.67
+  },
+  {
+    "bags_sacks_wraps": 64.31,
+    "bottles_jars": 64.31,
+    "packaging": 43.84,
+    "durable_plastics": 270.5,
+    "plates_cups": 6.03,
+    "trash_bags": 29.12
+  },
+  {
+    "bags_sacks_wraps": 55.98,
+    "bottles_jars": 55.98,
+    "packaging": 38.9,
+    "durable_plastics": 280.6,
+    "plates_cups": 3.63,
+    "trash_bags": 11.31
+  },
+  {
+    "bags_sacks_wraps": 61.98,
+    "bottles_jars": 61.98,
+    "packaging": 47.26,
+    "durable_plastics": 284,
+    "plates_cups": 10.99,
+    "trash_bags": 23.19
+  },
+  {
+    "bags_sacks_wraps": 67.51,
+    "bottles_jars": 67.68,
+    "packaging": 60.81,
+    "durable_plastics": 281.4,
+    "plates_cups": 10.3,
+    "trash_bags": 25.23
+  },
+  {
+    "bags_sacks_wraps": 61.54,
+    "bottles_jars": 61.54,
+    "packaging": 51.2,
+    "durable_plastics": 268.1,
+    "plates_cups": 11.79,
+    "trash_bags": 19.92
+  },
+  {
+    "bags_sacks_wraps": 57.17,
+    "bottles_jars": 57.17,
+    "packaging": 55.25,
+    "durable_plastics": 268.3,
+    "plates_cups": 17.83,
+    "trash_bags": 24.75
+  },
+  {
+    "bags_sacks_wraps": 58.32,
+    "bottles_jars": 58.32,
+    "packaging": 55.01,
+    "durable_plastics": 273.9,
+    "plates_cups": 3.55,
+    "trash_bags": 13.12
+  },
+  {
+    "bags_sacks_wraps": 61.04,
+    "bottles_jars": 61.04,
+    "packaging": 47.56,
+    "durable_plastics": 268.5,
+    "plates_cups": 1.52,
+    "trash_bags": 7.75
+  },
+  {
+    "bags_sacks_wraps": 64.66,
+    "bottles_jars": 64.88,
+    "packaging": 60.47,
+    "durable_plastics": 269.1,
+    "plates_cups": 8.75,
+    "trash_bags": 20.48
+  },
+  {
+    "bags_sacks_wraps": 50.75,
+    "bottles_jars": 50.75,
+    "packaging": 47.47,
+    "durable_plastics": 285.6,
+    "plates_cups": 4.75,
+    "trash_bags": 19.41
+  },
+  {
+    "bags_sacks_wraps": 54.06,
+    "bottles_jars": 54.06,
+    "packaging": 40.61,
+    "durable_plastics": 290.5,
+    "plates_cups": 0.58,
+    "trash_bags": 3.59
+  },
+  {
+    "bags_sacks_wraps": 57.77,
+    "bottles_jars": 57.77,
+    "packaging": 47.93,
+    "durable_plastics": 285.1,
+    "plates_cups": 1.23,
+    "trash_bags": 11.44
+  },
+  {
+    "bags_sacks_wraps": 60.53,
+    "bottles_jars": 60.53,
+    "packaging": 55.33,
+    "durable_plastics": 286.7,
+    "plates_cups": 3.62,
+    "trash_bags": 12.39
+  },
+  {
+    "bags_sacks_wraps": 62.41,
+    "bottles_jars": 62.85,
+    "packaging": 61.15,
+    "durable_plastics": 293.8,
+    "plates_cups": 3.27,
+    "trash_bags": 5.27
+  },
+  {
+    "bags_sacks_wraps": 63.65,
+    "bottles_jars": 64.26,
+    "packaging": 62.74,
+    "durable_plastics": 302.8,
+    "plates_cups": 0.55,
+    "trash_bags": 3.49
+  }
+]

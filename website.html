@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="description" content="assignment 1A" />
+  <meta name="keywords" content="project,sustainability" />
+  <meta name="author" content="Sam,Yovinma"  />
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+ <link href="style.css" rel="stylesheet"/>
+ <link href="styleplots.css" rel="stylesheet"/>
+
+ <script src ="https://d3js.org/d3.v6.min.js"></script>
+ <script src = "https://d3js.org/d3-ease.v2.min.js"></script>
+
+ <script src="graph1js.js"></script>
+ <script src="graph2js.js"></script>
+ <script src="graph3js.js"></script>
+
+
+  <title>Size and impact of waste on the environment</title>
+
+</head>
+<body id="indexbody">
+<div id="navi">
+<nav class="navigation" id="navbar">
+<ul>
+<li><a href="website.html">GRAPHS</a></li>
+<li> <a href="references.html">REFERENCES</a></li>
+
+</ul>
+</nav>
+<div id="banner">
+<header id="header" class="headers">The Size and Impact of waste on the environment</header>
+</div>
+</div>
+<div id="para1" class="paragraphs"><p>Waste is defined as any object or material that is deemed unusable after its main use. We encounter waste products on a daily basis, such as food scraps, packaging from boxes, finished products or even a car that has run its due course.  While it is unattainable in nature to lead a lifestyle where no individuals produce waste, the mass consumption of materials lead to an increasing sum of waste generated every day. This website aims to show the size of waste generated in our environment globally and look into the waste generation in Australia, which will bring insight into how this waste could affect the environment surrounding us.</p></div>
+<div id="garbimg" ></div>
+
+<div id="para2" class="paragraphs"><p>According to (Plaine Products 2021), plastic was discovered in the 1800s
+   and became widely popular after the Second World War in the 1960s and 1970s where its demand rose due
+    to versatility, inexpensiveness and sanitary nature. Although beneficial, the production of plastic
+    increased drastically and is visible in the graph below, which shows the global production of plastic
+     from 1950 to 2014.</p></div>
+
+<div class="instructions"><p class="instr"><b>HOW THE GRAPH WORKS</b></p>
+    <ul id="instrlist">
+       <li><p>hover over the graph - view the values for the amount of plastic generated for a particular year</p> </li>
+   </ul>
+   <img id="gif" src="images/gifgraph1.gif" alt="gif1">
+ </div>
+<h2 class="graphheadings">Global Production of Plastic 1950-2014</h2>
+<div class="graphs" id="graph1">
+    <div id="tooltip">
+    <div class="price"></div>
+    <div class="date"></div>
+  </div>
+</div>
+<div id="para3" class="paragraphs"><p>With the increased production in plastic, it also creates a lasting
+  negative impact on our environment which is already evident such as:</p>
+<ul><li><p>Plastic debris that end up in the ocean due to littering will be consumed
+   by marine creatures and poison them since plastic is not biodegradable.</p></li>
+<li><p>Plastic in landfills can introduce harmful chemicals into the
+  groundwater which can contaminate water systems</p></li>
+  <li><p>The destruction of plastic by combustion leads to the release of toxic chemicals such
+     as hydrochloric acid , sulphur dioxide and heavy metals, according to (Biemiller 2013)</p></li>
+ </ul>
+</div>
+
+<div id="bannerpic2"></div>
+
+<div id="para4" class="paragraphs" ><p>From the graph above, it is clear how large the plastic contribution is to the environment.
+   To some individuals, they may assume that such a large plastic consumption
+  maybe due to that 8 million individuals live in the world and if observed on a personal level,
+   it may not be as large in consumption. But how much waste does one individual usually produce in a year?</p>
+ </div>
+
+   <div id="para5" class="paragraphs"><p>The answer to this exact question is visible in the graph below, where it presents the
+     plastic contributions of 365 randomly selected individuals on a global scale and their total yearly plastic consumption.
+      This graph also allows you to observe the different types of plastic contributions an individual can make in their household,
+       by simply selecting the type of plastic on the drop-down list below.</p></div>
+
+
+<div id="divgraph3">
+  <h2 class="graphheadings">Global Personal Plastic Production, based by Type of Plastic used</h2>
+  <select id="metric">
+    <option value="bags_sacks_wraps" selected>
+      Plastic Bags/ Sacks/ Wraps (Kg/year)
+    </option>
+    <option value="bottles_jars">Plastic Bottles/ Jars (Kg/year)</option>
+    <option value="packaging">Plastic Packagings (Kg/year)</option>
+    <option value="durable_plastics">Durable Plastics (gram/year)</option>
+    <option value="plates_cups">Plastic Plates/ Cups (Kg/year)</option>
+    <option value="trash_bags">Plastic Trash bags (Kg/year)</option>
+  </select>
+<div class="graphs" id="graph3"></div>
+</div>
+
+<div id="para6" class="paragraphs"><p>Let’s now focus on the size of waste in Australia; Australia is a
+  continent hosting over 25 million individuals, all of whom inevitably produce waste and contribute to
+   the waste acquisition in the environment. Australia generated approximately 76 million tonnes of waste
+   in the period of 2018-2019 according to (Australian Bureau of Statistics 2020). With such high volumes
+    of waste produced within a year, Australia manages their waste by exporting it to other countries such
+    as Indonesia and India. The graph below shows the amount of waste produced in Australia that are
+    exported to other countries in the period of 2018 to 2019, based on the type of waste.</p></div>
+
+<div class="instructions"><p class="instr"><b>HOW THE GRAPH WORKS</b></p>
+ <ul id="instrlist2">
+  <li><p>Hover over the legend – Individually observe the size of proportion of a type of waste </p></li>
+  <li><p>hover over the graph - view the values for each type of waste for each month</p> </li>
+</ul>
+<img id="gif2" src="images/gifgraph2.gif" alt="gif2"/>
+</div>
+
+  <h2 class="graphheadings">Waste exported from Australia 2019-2020, based on Type of Waste</h2>
+<div class="graphs" id="graph2"></div>
+
+
+<div id="para7" class="paragraphs"><p>According to (Moran 2020), the large exports made to countries
+  such as Indonesia by Australia lead to waste dumped into Brantas River in Indonesia or burnt, both
+  of which created a large impact on those residing in Indonesia as it affected the countries water
+  supply and pollution in air. These impacts are unfortunately the fate for other countries that
+  receive waste for management and the sheer size of waste exported by Australia solely provides
+  evidence to it.</p></div>
+
+<div id="bannerpic3"></div>
+<div id="para8" class="paragraphs"><p>From the graphs and information above,
+   we hope that you gained insight on how significantly large the sum of
+   waste generated is and how it can impact our environment and lifestyle.
+   There are a multitude of methods to reduce waste production, which could lead
+   to a sustainable future. A sustainable future would mean that the chances of
+   unnecessary waste production would be lowered, thus will preserve resources
+   for the future generations to make use of and lead an environmentally-conscious life. </p></div>
+
+
+
+<footer>
+<div class="navigation" id= "footnavi">
+
+<ul id="footernavi" >
+<li><a href="website.html">GRAPHS</a></li>
+<li><a href="references.html">REFERENCES</a></li>
+</ul>
+
+<p>&#169;2021 sustainability project for data visualization</p>
+<p id="markup"> Mark up by: Yovinma Konara (102426323) and Dung Viet Bui(101978674)</p>
+
+</div>
+</footer>
+
+
+</body>
+</html>

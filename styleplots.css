@@ -1,0 +1,50 @@
+body {
+  background-color: #f7f7f7;
+}
+
+#graph1 {
+  margin: 25px auto;
+  width: 1000px;
+  position: relative;
+}
+
+.axis {
+  font-size: 18px;
+  shape-rendering: geometricPrecision;
+}
+
+#tooltip {
+  border: 1px solid #ccc;
+  position: absolute;
+  padding: 10px;
+  background-color: #fff;
+  display: none;
+  pointer-events: none;
+}
+
+.price {
+  font-weight: bold;
+}
+
+#graph3 {
+  margin: 25px auto;
+  width: 800px;
+}
+
+.bar-labels {
+  text-anchor: middle;
+  font-size: 16px;
+  font-family: sans-serif;
+}
+
+select {
+  margin: 25px auto 0;
+  display: block;
+  font-size: 20px;
+}
+
+.mean-line {
+  stroke: #d62828;
+  stroke-dasharray: 6;
+  stroke-width: 2px;
+}

@@ -1,0 +1,283 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&family=Source+Sans+Pro:wght@200&family=Staatliches&display=swap');
+/*css styling for index.html*/
+.headers{
+	color:white;
+	font-family: 'Staatliches', cursive;
+	font-size:5em;
+	text-align:left;
+	position:relative;
+  margin-left: 0.5em;
+  top:4.5em;
+
+
+}
+
+#banner{
+  background-image:url(images/bannerpic.jpg);
+  background-size:cover;
+  background-position:center;
+  position:relative;
+  height:35em;
+  margin-top: -5em;
+  z-index: -1;
+  filter: grayscale(10%);
+  opacity: 0.9;
+
+
+}
+
+#navi{
+    margin-top: -1em;
+  margin-left:-0.5em;
+  margin-right:-0.5em;
+}
+
+#navbar li {
+ float:left;
+ font-family: 'Source Sans Pro', sans-serif;
+ font-size: 22px;
+
+}
+
+.navigation ul{
+
+  list-style-type: none;
+  height: 4em;
+  overflow: hidden;
+  background-color: #333;
+  padding: 1em;
+}
+
+.navigation a {
+  display: block;
+   color: white;
+   text-align: center;
+   margin-top: -1em;
+   padding: 2em;
+   text-decoration: none;
+}
+
+li a:hover {
+  background-color: #468189;
+}
+
+  #footernavi li{
+  	float:left;
+  	left:30em;
+  	padding-left:20em;
+  	text-align:center;
+  	text-decoration:underline;
+  	font-size:1em;
+		 font-family: 'Source Sans Pro', sans-serif;
+
+  }
+
+
+
+  footer{
+  	margin-left:-0.5em;
+  	margin-right:-0.5em;
+    margin-bottom: -1em;
+  }
+
+  footer p{
+  	color:white;
+  	font-size:0.7em;
+  	text-align:center;
+
+
+  }
+
+  footer{
+  	  background-color: #333;
+  }
+
+  #markup{
+    padding-bottom: 3em;
+  }
+
+	.paragraphs{
+		margin-left: -0.5em;
+		margin-right:-0.5em;
+		padding-top:3em;
+		padding-bottom: 2em;
+	}
+
+
+	#garbimg{
+		background-image:url(images/garbage.jpg);
+		background-position: 50% 50%;
+		background-attachment: fixed;
+		position:relative;
+		height:20em;
+		margin-left: -0.5em;
+		margin-right:-0.5em;
+		z-index: -1;
+		filter: grayscale(10%);
+		opacity: 0.9;
+	}
+
+	.instructions{
+		background-color: #d6edff;
+		margin-left: -0.5em;
+		margin-right: -0.5em;
+		margin-top: -1em;
+		padding:1em;
+	}
+
+  #instrlist2 li{
+		font-family: 'Monda', sans-serif;
+		font-size:1em;
+  }
+
+
+
+	#gif{
+	width: 600px;
+	height:500px;
+	position: relative;
+	left: 5em;
+	}
+
+	#gif2{
+	width: 800px;
+	height:500px;
+	position: relative;
+  left: 5em;
+	}
+
+
+
+	#bannerpic2{
+		background-image:url(images/bannerpic2.jpg);
+		background-position: 30% 80%;
+		background-attachment: fixed;
+		position:relative;
+		height:15em;
+		margin-left: -0.5em;
+		margin-right:-0.5em;
+		z-index: -1;
+		filter: grayscale(10%);
+		opacity: 0.9;
+	}
+
+	#bannerpic3{
+		background-image:url(images/bannerpic3.jpg);
+		background-position: 30% 80%;
+		background-attachment: fixed;
+		position:relative;
+		height:15em;
+		margin-left: -0.5em;
+		margin-right:-0.5em;
+		z-index: -1;
+		filter: grayscale(10%);
+		opacity: 0.9;
+	}
+
+	#para1{
+
+		background-color: #bdd6ff;
+	}
+	#para2{
+		background-color:#1d304f;
+	}
+	#para2 p{
+		color:white;
+	}
+
+	#para3{
+				background-color: #bdd6ff;
+	}
+
+ #para4{
+	 background-color:#1d304f;
+ }
+
+ #para4 p{
+	 color:white;
+ }
+
+
+ #para5{
+			 background-color: #bdd6ff;
+ }
+
+
+#para6{
+	background-color: #1d304f;
+
+}
+
+#para6 p{
+	color:white;
+}
+
+
+
+#para7{
+	background-color: #bdd6ff;
+
+}
+
+#para8{
+	background-color: #e0e2ff;
+
+}
+
+
+
+#para8 p{
+	font-size: 1.5em;
+	font-family: 'Mate SC', serif;
+}
+
+  p{
+  	font-size:1.2em;
+  	font-family: 'Monda', sans-serif;
+		margin-left: 2em;
+		margin-right:2em;
+  }
+
+  body{
+  	background-color:#	ebebff;
+  }
+
+	.graphheadings {
+		font-size: 1.5em;
+		font-family: 'Mate SC', serif;
+		margin-left: 1em;
+	}
+
+
+/*references.html*/
+#banner2{
+  background-image:url(images/references.jpg);
+  background-size:cover;
+  background-position:center;
+  position:relative;
+  height:35em;
+  margin-top: -5em;
+  z-index: -1;
+  filter: grayscale(10%);
+  opacity: 0.9;
+
+
+}
+
+.refheadings{
+	font-size: 1.5em;
+	font-family: 'Mate SC', serif;
+	margin-left: 1em;
+  background-color:#abbcff;
+}
+
+#header2{
+	color:black;
+}
+
+
+
+
+}
+/*index page css is over*/
