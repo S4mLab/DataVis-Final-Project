@@ -13,6 +13,13 @@
 
 }
 
+.normalhead{
+	color:white;
+	font-family: 'Staatliches', cursive;
+	font-size:2em;
+	margin-left: 15em;
+}
+
 #banner{
   background-image:url(images/bannerpic.jpg);
   background-size:cover;
@@ -110,7 +117,7 @@ li a:hover {
 		background-position: 50% 50%;
 		background-attachment: fixed;
 		position:relative;
-		height:20em;
+		height:15em;
 		margin-left: -0.5em;
 		margin-right:-0.5em;
 		z-index: -1;
@@ -126,25 +133,43 @@ li a:hover {
 		padding:1em;
 	}
 
+	.instr{
+		text-align: left;
+		margin-left: 1em;
+	}
+
+	#instrlist p{
+			text-align: left;
+	}
+
   #instrlist2 li{
 		font-family: 'Monda', sans-serif;
 		font-size:1em;
+			text-align: left;
   }
 
+	#instrlist2 p{
+			text-align: left;
+	}
+
+	#instrlist3 p{
+			text-align: left;
+			padding-top: 0.5em;
+	}
 
 
 	#gif{
 	width: 600px;
 	height:500px;
 	position: relative;
-	left: 5em;
+	left: 20em;
 	}
 
 	#gif2{
 	width: 800px;
 	height:500px;
 	position: relative;
-  left: 5em;
+  left: 10em;
 	}
 
 
@@ -154,7 +179,7 @@ li a:hover {
 		background-position: 30% 80%;
 		background-attachment: fixed;
 		position:relative;
-		height:15em;
+		height:18em;
 		margin-left: -0.5em;
 		margin-right:-0.5em;
 		z-index: -1;
@@ -175,12 +200,50 @@ li a:hover {
 		opacity: 0.9;
 	}
 
-	#para1{
-
-		background-color: #bdd6ff;
+	#bannerpic4{
+		background-image:url(images/bannerpic4.jpg);
+		background-position: 30% 60%;
+		background-attachment: fixed;
+		position:relative;
+		height:18em;
+		margin-left: -0.5em;
+		margin-right:-0.5em;
+		z-index: -1;
+		filter: grayscale(10%);
+		opacity: 0.9;
 	}
+
+	#graphhead3{
+		margin-left: 12em;
+	}
+
+	#para1{
+		background-color: #bdd6ff;
+
+	}
+
+	#para1 p{
+		font-size: 1.5em;
+		font-family: 'Mate SC', serif;
+	}
+
+	.mainpoint{
+		color: #04032e;
+		font-size: 1.5em;
+		font-family: 'Mate SC', serif;
+	}
+
+ #normhead1{
+	 margin-left:4em;
+ }
+
+ #normhead2{
+ 	margin-left:12em;
+ }
+
 	#para2{
 		background-color:#1d304f;
+		padding-bottom: 4em;
 	}
 	#para2 p{
 		color:white;
@@ -201,53 +264,78 @@ li a:hover {
 
  #para5{
 			 background-color: #bdd6ff;
+			 padding-top: 3em;
+			 padding-bottom:3em;
  }
 
 
 #para6{
 	background-color: #1d304f;
-
 }
 
 #para6 p{
 	color:white;
+	padding-bottom: 2em;
+
 }
 
 
 
 #para7{
 	background-color: #bdd6ff;
+}
+
+#para7 p{
+	padding-top: 2em;
+	padding-bottom: 2em;
+  outline-style: groove;
+	padding-left:1em;
+	padding-right: 1em;
 
 }
+
 
 #para8{
 	background-color: #e0e2ff;
 
 }
 
-
-
 #para8 p{
 	font-size: 1.5em;
 	font-family: 'Mate SC', serif;
 }
+
+
 
   p{
   	font-size:1.2em;
   	font-family: 'Monda', sans-serif;
 		margin-left: 2em;
 		margin-right:2em;
+		text-align: center;
   }
 
   body{
-  	background-color:#	ebebff;
+  	background-color:#ebebff;
   }
 
 	.graphheadings {
 		font-size: 1.5em;
 		font-family: 'Mate SC', serif;
-		margin-left: 1em;
+		margin-left: 17em;
 	}
+
+	#graphhead2{
+		margin-left:12em;
+	}
+
+	#metric{
+		background-color: #bdd6ff;
+		font-size: 1.3em;
+		padding: 0.5em;
+		border-radius: 25px;
+	}
+
 
 
 /*references.html*/

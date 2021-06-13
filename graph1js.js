@@ -15,8 +15,8 @@ const drawLinePlot = async () => {
   const svgDimension = {
     height: 600,
     width: 800,
-    marginleft: 100,
-    margins:50
+    marginleft: 200,
+    margins:100
   }
 
   const innerWidth = svgDimension.width - svgDimension.margins * 2

@@ -1,7 +1,7 @@
-var margin = {top: 100, right: 30, bottom: 30, left: 30};
-var w = 1050 - margin.left - margin.right;
+var margin = {top: 100, right: 30, bottom: 30, left: 140};
+var w = 1150 - margin.left;
 var h = 650 - margin.top - margin.bottom;
-var padding  = 85;
+var padding  = 60;
 
 
 function init(){
@@ -30,7 +30,7 @@ function init(){
   //x scale
   var xScale = d3.scaleTime()
       .domain(d3.extent(data, function(d) { return d.month; }))
-      .range([padding-5, w-padding]);
+      .range([padding, w-margin.left]);
 
   // y scale
   var yScale = d3.scaleLinear()
@@ -39,7 +39,7 @@ function init(){
   //create graph
   var svg = d3.select("#graph2")
       .append("svg")
-      .attr("width", w + margin.left + margin.right)
+      .attr("width", w + margin.left )
       .attr("height", h + margin.top + margin.bottom)
       .append("g")
       .attr("transform","translate(" + margin.left + "," + margin.top + ")");
@@ -59,7 +59,7 @@ function init(){
 
   // y axis added to svg
   svg.append("g")
-     .attr("transform","translate( "+ (padding-4)+ ",0 )")
+     .attr("transform","translate( "+ (padding)+ ",0 )")
      .transition().duration(3000).style("opacity", 1)
      .call(d3.axisLeft(yScale).tickSize(10));
 
@@ -92,8 +92,8 @@ function init(){
      .attr("transform", "rotate(-90)")
      .attr("y",10- margin.left)
      .transition().duration(2000).ease(d3.easeLinear)
-     .attr("x",0 - (h / 2) + margin.bottom)
-     .attr("dy", "2em")
+     .attr("x",0 - (h / 2) + padding)
+     .attr("dy", "5em")
      .attr("font-family", "'PT Sans Narrow', sans-serif")
      .attr("font-size", "15px")
      .style("text-anchor", "middle")
@@ -104,7 +104,7 @@ function init(){
      .attr("y", h-margin.bottom)
      .transition().duration(2000).ease(d3.easeLinear)
      .attr("x",w/2 + margin.bottom)
-     .attr("dy", "1em")
+     .attr("dy", "1.5em")
      .attr("font-family", "'PT Sans Narrow', sans-serif")
      .attr("font-size", "15px")
      .style("text-anchor", "middle")
@@ -133,7 +133,7 @@ function init(){
         .data(keysused)
         .enter()
         .append("rect")
-        .attr("x",w-margin.right*2.5)
+        .attr("x",w-margin.right*4.0)
         .attr("y",function(d,i){ return 10+ i*(size+10)})
         .attr("width", size)
         .attr("height", size)
@@ -147,7 +147,7 @@ function init(){
       .data(keysused)
       .enter()
       .append("text")
-      .attr("x", w- margin.bottom-20 )
+      .attr("x", w-margin.left+padding)
       .style("fill", function(d,i){return colors[i];})
       .attr("y", function(d,i){ return (10+ i*(size+ 10) + (size/2));})
       .attr("class", function(d){return d;})
@@ -235,12 +235,13 @@ function init(){
       var bisect = d3.bisector(function(d) { return d.month; }).right;
 
       function mousemove(d){
-        var datesel = xScale.invert(d.x); //gets the numberical value in scale for the date
+        var newX= d.x-margin.left+10;
+        var datesel = xScale.invert(newX); //gets the numerical value in scale for the date
             i = bisect(data, datesel, 1);
 
             //gets record with earlier date and the record with later date
             d0 = data[i - 1],
-                   d1 = data[i],
+                   d1 = data[i];
                    d= datesel- d0.month > d1.month-datesel ? d1 : d0; // determines which data is to be displayed out of the two records based on how close the point is on the x scale
 
        var lay1= parseInt(d['Glass']) +parseInt(d['Hazardous']) + parseInt(d['Metals']) + parseInt(d["Other"]) + parseInt(d['Paper']) + parseInt(d['Plastics'])+ parseInt(d['Tyres'])
